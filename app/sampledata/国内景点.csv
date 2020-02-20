@@ -1,0 +1,1395 @@
+285372,285373,北京市,10101010004A,Temple of Heaven,tiantangongyuan,天坛公园
+285373,285374,北京市,10101010017A,Prince Gong Mansion,gongwangfu,恭王府
+285374,285375,北京市,10101010018A,Collections of the Palace Museum,gugongbowuyuan,故宫博物院
+285375,285376,北京市,10101010001A,Ming Dynasty City Wall Relics Park(Beijing),beijingmingchengqiangyizhigongyuan,北京明城墙遗址公园
+285376,285377,北京市,10101010002A,Beijing Planning Exhibition Hall,beijingshiguihuazhanlanguan,北京市规划展览馆
+285377,285378,北京市,10101010003A,Ming  Dynasty City Wall Relics Park,mingchengqiangyizhigongyuan,明城墙遗址公园
+285378,285379,北京市,10101010006A,Beijing Imperial Academy,beijingguozijian,北京国子监
+285379,285380,北京市,10101010007A,Beijing Temple of Confucius,beijingkongmiao,北京孔庙
+285380,285381,北京市,10101010010A,Beihai Park,beihaigongyuan,北海公园
+285381,285382,北京市,10101010011A,Beijing Ocean Park,beijinghaiyangguan,北京海洋馆
+285382,285383,北京市,10101010012A,Jingshan Park,jingshangongyuan,景山公园
+285383,285384,北京市,10101010013A,Shichahai,shichahai,什刹海
+285384,285385,重庆市,10104140003A,Baiheliang Underwater Museum,baiheliangshuixiabowuguan,白鹤梁水下博物馆
+285385,285386,重庆市,10104140001A,Shijia Ravine,shijiagou,石夹沟
+285386,285387,重庆市,10104140002A,Wuling Mountain Forest Park,wulingshansenlingongyuan,武陵山森林公园
+285387,285388,重庆市,10104130001A,Qinglong Waterfall,qinglongpubu,青龙瀑布
+285388,285389,重庆市,10104130002A,Tanzhang Gorge,tanzhangxia,潭獐峡
+285389,285390,辽宁省,10107010114A,Shenyang Botanical Park,shenyangshizhiwuyuan,沈阳市植物园
+285390,285391,辽宁省,10107010602A,Xinmin Culture Expo Park,xinminwenhuabolanyuan,新民文化博览园
+285391,285392,辽宁省,10107010104A,Beiling Park,beilinggongyuan,北陵公园
+285392,285393,辽宁省,10107010105A,Fuling Tomb,fulingsenlingongyuan,福陵森林公园
+285393,285394,辽宁省,10107010106A,Liaoning Proviencial Museum,liaoningshengbowuguan,辽宁省博物馆
+285394,285395,辽宁省,10107010107A,Qipan Mountain Scenic Spot,qipanshanfengjingqu,棋盘山风景区
+285395,285396,辽宁省,10107010108A,Shenyang airplane museum park,shenfeihangkongbolanyuan,沈飞航空博览园
+285396,285397,辽宁省,10107010109A,Shenyang Palace Museum,shenyanggugong,沈阳故宫
+285397,285398,辽宁省,10107010110A,Shenyang Guaipo Scenic Spot,shenyangguaipofengjingqu,沈阳怪坡风景区
+285398,285399,辽宁省,10107010111A,Shenyang Mukden Incident Museum,shenyangjiuyibalishibowuguan,沈阳九·一八历史博物馆
+285399,285400,辽宁省,10107010112A,Shenyang Science Centrum,shenyangkexuegong,沈阳科学宫
+285400,285401,辽宁省,10107010113A,Marshal Zhang's Mansion,zhangshishuaifu,张氏帅府
+285401,285402,吉林省,10106090602A,Baixi Rafting,baixipiaoliu,白溪漂流
+285402,285403,吉林省,10106090601A,Lushui River National Forest Park,lushuiheguojiasenlingongyuan,露水河国家森林公园
+285403,285404,吉林省,10106090501A,Wangtian'e Moutain Scenic Spot,wangtianefengjingqu,望天鹅风景区
+285404,285405,吉林省,10106090502A,Guoyuan Korean Folk Village Of Changbai Korean Autonomous County,changbaiguoyuanchaoxianzuminsucun,长白果园朝鲜族民俗村
+285405,285406,吉林省,10106090201A,Baishan Lake Scenic Spot,baishanhufengjingqu,白山湖风景区
+285406,285407,吉林省,10106090202A,Martyring Spot of General Yang Jingyu,yangjingyujiangjunxunguodi,杨靖宇将军殉国地
+285407,285408,吉林省,10106090101A,Longshan Lake Scenic Spot of Baishan City,baishanshilongshanhujingqu,白山市龙山湖景区
+285408,285409,吉林省,10106090102A,Changbai Moutain Maze,changbaishanmigong,长白山迷宫
+285409,285410,黑龙江省,10105010114A,Sun Island Scenic Spot,taiyangdaofengjingqu,太阳岛风景区
+285410,285411,黑龙江省,10105030603A,Jingpo Lake,jingbohu,镜泊湖
+285411,285412,黑龙江省,10105060501A,Wudalianchi Scenic Spot,wudalianchifengjingqu,五大连池风景区
+285412,285413,黑龙江省,10105010501A,Erlong Mountain Scenic Spot,erlongshanfengjingqu,二龙山风景区
+285413,285414,黑龙江省,10105010107A,Modern Agricultural Sightseeing Spot Of Nen River Farm,beidahuangjituanbeidahuangxiandainongyeyuan,北大荒集团北大荒现代农业园
+285414,285415,黑龙江省,10105010108A,Northern Forest Zoo,beifangsenlindongwuyuan,北方森林动物园
+285415,285416,黑龙江省,10105010109A,Harbin Amusement Park,haerbinyouleyuan,哈尔滨游乐园
+285416,285417,黑龙江省,10105010110A,Heilongjiang Science and Technology Museum,heilongjiangshengkexuejishuguan,黑龙江省科学技术馆
+285417,285418,黑龙江省,10105010111A,Jinyuan Cultural Tourism Spot,jinyuanwenhualvyoukaifaqu,金源文化旅游开发区
+285418,285419,黑龙江省,10105010112A,Dragon Tower,longta,龙塔
+285419,285420,黑龙江省,10105010113A,Saint Sophia Cathedral,sheng·suofeiyajiaotang,圣·索菲亚教堂
+285420,285421,黑龙江省,10105011101A,Yabuli Ski Resort,yabulihuaxuelvyoudujiaqu,亚布力滑雪旅游度假区
+285421,285422,河南省,10118070103A,Wolong Gang,wolonggang,卧龙岗
+285422,285423,河南省,10118070601A,Baotianman Valley rafting,baotianmanxiagupiaoliu,宝天曼峡谷漂流
+285423,285424,河南省,10118070504A,The stork river rafting Scenic Spot,guanhepiaoliufengjingqu,鹳河漂流风景区
+285424,285425,河南省,10118070505A,Xixia dinosaur Relics Park,zhongguoxixiakonglongyijiyuan,中国西峡恐龙遗迹园
+285425,285426,河南省,10118070201A,Wuduo Mountain Scenic Spot,wuduoshanfengjingqu,五朵山风景区
+285426,285427,河南省,10118070101A,Painting Museum of Han Dynasty,hanhuaguan,汉画馆
+285427,285428,河南省,10118070102A,Medical Sage Ancestral Temple,yishengci,医圣祠
+285428,285429,河南省,10118070501A,Longtan Valley,longtangou,龙潭沟
+285429,285430,河南省,10118070502A,Nanyang Yunhua Scenic Spot of Bats Cave,nanyangyunhuabianfudongjingqu,南阳云华蝙蝠洞景区
+285430,285431,河南省,10118070503A,Shimen Lake,shimenhu,石门湖
+285431,285432,河南省,10118070401A,Shanxi and Shaanxi Guild Hall of Sheqi,nanyangsheqishanshanhuiguan,南阳社旗山陕会馆
+285432,285433,河南省,10118070801A,Xiangyan Temple,xiangyansi,香严寺
+285433,285434,湖北省,10120090109A,Three Gorge Dam,sanxiagongcheng,三峡工程
+285434,285435,湖北省,10120090110A,Yichang Three Gorges Tribe Scenic Spot,yichangsanxiarenjiafengjingqu,宜昌三峡人家风景区
+285435,285436,湖北省,10120090801A,Qingjiang Gallery,qingjianghualang,清江画廊
+285436,285437,湖北省,10120090104A,Happy Valley Scenic Spot,kuailegujingqu,快乐谷景区
+285437,285438,湖北省,10120090105A,Three Gorge Waterfall,sanxiadapubu,三峡大瀑布
+285438,285439,湖北省,10120090106A,Sanyou Cave,sanyoudong,三游洞
+285439,285440,湖北省,10120090107A,Tanzi Ridge,tanziling,坛子岭
+285440,285441,湖北省,10120090108A,Yichang Chexi Folk Custom Scenic Spot,yichangcheximinsufengjingqu,宜昌车溪民俗风景区
+285441,285442,湖北省,10120090601A,Yichang Chaibuxi Grand Canyon Scenic Spot,yichangshichaibuxixiagufengjingqu,宜昌市柴埠溪峡谷风景区
+285442,285443,湖北省,10120090302A,Jiuwan Steam,jiuwanxi,九畹溪
+285443,285444,湖北省,10120090701A,Dangyang Yuquan Scenic Spot,dangyangyuquanfengjingqu,当阳玉泉风景区
+285444,285445,湖北省,10120090702A,Yichang Dangyang Baibaozhai Scenic Spot,yichangshidangyangbaibaozhaifengjingqu,宜昌市当阳百宝寨风景区
+285445,285446,湖南省,10125060301A,Taohuayuan Scenic Spot,taohuayuanfengjingqu,桃花源风景区
+285446,285447,湖南省,10125060102A,Liuye Lake Tourism Resort,liuyehulvyoudujiaqu,柳叶湖旅游度假区
+285447,285448,湖南省,10125060101A,Huayanxi National Forest Park,huayanxiguojiasenlingongyuan,花岩溪国家森林公园
+285448,285449,湖南省,10125060401A,Western Dongting Lake Wetland Ecotourism Scenic Spot,xidongtinghushidishengtailvyoufengjingqu,西洞庭湖湿地生态旅游风景区
+285449,285450,湖南省,10125060701A,Jia Mountain National Forest Park,jiashanguojiasenlingongyuan,夹山国家森林公园
+285450,285451,湖南省,10125110107A,Tianmen Mountain National Forest Park,tianmenshanguojiasenlingongyuan,天门山国家森林公园
+285451,285452,湖南省,10125110108A,Wulingyuan Scenic and Historic Interest Spot,wulingyuanfengjingmingshengqu,武陵源风景名胜区
+285452,285453,湖南省,10125110201A,Jiutian Cave-Maoyan River Scenic Spot,maoyanhejiutiandongfengjingqu,茅岩河九天洞风景区
+285453,285454,湖南省,10125110104A,Baofeng Lake Scenic Spot,baofenghufengjingqu,宝峰湖风景区
+285454,285455,湖南省,10125110105A,Huanglong Cave Tourism Spot,huanglongdonglvyouqu,黄龙洞旅游区
+285455,285456,湖南省,10125110106A,Zhangjiajie Tujia Folk Customs Park,zhangjiajietujiafengqingyuan,张家界土家风情园
+285456,285457,湖南省,10125110301A,Zhangjiajie Jiangya Hot Springs Resort,jiangyawenquandujiacun,江垭温泉度假村
+285457,285458,湖南省,10125110302A,Dragon King‘s cave,longwangdong,龙王洞
+285458,285459,湖南省,10125110303A,Wanfu Hot Spring Resort,wanfuwenquan,万福温泉
+285459,285460,湖南省,10125110101A,Green land Ecological Park,lvsedadishengtaiyuan,绿色大地生态园
+285460,285461,湖南省,10125110102A,Xiuhua mountain Museum,xiuhuashanguan,秀华山馆
+285461,285462,湖南省,10125110103A,Zixia Temple,zixiaguan,紫霞观
+285462,285463,广西壮族自治区,10130100102A,Baise Uprising Memorial Hall,baiseqiyijinianguan,百色起义纪念馆
+285463,285464,广西壮族自治区,10130100103A,Dawang Ridge Scenic Spot,dawanglingfengjingqu,大王岭风景区
+285464,285465,广西壮族自治区,10130101001A,Dashiwei Tiankeng Group Scenic Spot,dashiweitiankengqunjingqu,大石围天坑群景区
+285465,285466,广西壮族自治区,10130100501A,Gulongshan Canyon Scenic Spot,gulongshanxiagufengjingqu,古龙山峡谷风景区
+285466,285467,广西壮族自治区,10130100502A,Tongling Grand Canyon,tonglingdaxiagu,通灵大峡谷
+285467,285468,广西壮族自治区,10130100101A,Baise Chengbi Lake Scenic Spot,baisechengbihufengjingqu,百色澄碧湖风景区
+285468,285469,广东省,10128040904A,Mei County Yannanfei Tea Graden Scenic Spot,meixianyannanfeichatianjingqu,梅县雁南飞茶田景区
+285469,285470,广东省,10128040901A,Huayin Yanming Lake Tourism Resort,huayinyanminghulvyoudujiacun,华银雁鸣湖旅游度假村
+285470,285471,广东省,10128040902A,Lingguang Temple,lingguangsi,灵光寺
+285471,285472,广东省,10128040903A,Ye Jianying Former Residence,yejianyingguju,叶剑英故居
+285472,285473,广东省,10128040701A,Five-finger Stone,wuzhishi,五指石
+285473,285474,广东省,10128040801A,Tang Lake Rekuangni Villa,tanghurekuangnishanzhuang,汤湖热矿泥山庄
+285474,285475,江苏省,10119040127A,Dong Mountain Scenic Spot,dongshanjingqu,东山景区
+285475,285476,江苏省,10119040128A,Huqiu Mountain Scenic Spot,huqiushanfengjingmingshengqu,虎丘山风景名胜区
+285476,285477,江苏省,10119040129A,Jinji Lake Scenic Spot,jinjihujingqu,金鸡湖景区
+285477,285478,江苏省,10119040130A,The Lingering Garden,liuyuan,留园
+285478,285479,江苏省,10119040131A,Qionku Mountain Scenic Spot,qionglongshanjingqu,穹窿山景区
+285479,285480,江苏省,10119040132A,Tianping Mountain Scenic Spot,tianpingshanfengjingmingshengqu,天平山风景名胜区
+285480,285481,江苏省,10119040133A,Wang Mountain Scenic Spot,wangshanjingqu,旺山景区
+285481,285482,江苏省,10119040134A,The Humble Administrator's Garden,zhuozhengyuan,拙政园
+285482,285483,江苏省,10119040703A,Tongli Ancient Town,guzhentongli,古镇同里
+285483,285484,江苏省,10119040704A,Zhouzhuang Ancient TownTourism Spot,zhouzhuangguzhenyoulanqu,周庄古镇游览区
+285484,285485,江苏省,10119040401A,Jinxi Ancient Town,jinxiguzhen,锦溪古镇
+285485,285486,江苏省,10119040402A,Qiandeng Ancient Town,qiandengguzhen,千灯古镇
+285486,285487,江苏省,10119050108A,Hao River Scenic Spot,haohefengjingmingshengqu,濠河风景名胜区
+285487,285488,江苏省,10119050304A,14th Red Army Park,hongshisijungongyuan,红十四军公园
+285488,285489,江苏省,10119050305A,Shuihui Park,shuihuiyuan,水绘园
+285489,285490,江苏省,10119050105A,Nantong Museum,nantongbowuyuan,南通博物苑
+285490,285491,江苏省,10119050106A,Nantong Lang Mountain Scenic Spot,nantonglangshanfengjingmingshengqu,南通狼山风景名胜区
+285491,285492,江苏省,10119050107A,China Abacuses Museum,zhongguozhusuanbowuguan,中国珠算博物馆
+285492,285493,江苏省,10119050701A,Golden Beach Scenic Spot,huangjinhaitanfengjingqu,黄金海滩风景区
+285493,285494,江苏省,10119050401A,Nantong Xiaoyangkou Scenic Spot,nantongxiaoyangkoufengjingqu,南通小洋口风景区
+285494,285495,江苏省,10119050301A,Dinghui Temple,dinghuichansi,定慧禅寺
+285495,285496,江苏省,10119050302A,Oriental Longevity Garden,dongfangdashouxingyuan,东方大寿星园
+285496,285497,江苏省,10119050303A,Fabao Temple,fabaochansi,法宝禅寺
+285497,285498,江苏省,10119050201A,Guangfu Temple,guangfuchansi,广福禅寺
+285498,285499,江苏省,10119070801A,Dafeng elk National Nature Reserve,dafengmiluguojiajiziranbaohuqu,大丰麋鹿国家级自然保护区
+285499,285500,江苏省,10119070101A,Dazong Lack Tourism Spot,dazonghulvyoudujiaqu,大纵湖旅游度假区
+285500,285501,江苏省,10119070102A,New Fourth Army Memorial Hall,xinsijunjinianguan,新四军纪念馆
+285501,285502,江苏省,10119070501A,Xixin Temple,xixinsi,息心寺
+285502,285503,浙江省,10121010109A,West Lake,xihu,西湖
+285503,285504,浙江省,10121010110A,Xixi national wetland park,xixiguojiashidigongyuan,西溪国家湿地公园
+285504,285505,浙江省,10121010401A,Chun'an county Qiaodao Lake Scenic Spot,chunanxianqiandaohufengjingqu,淳安县千岛湖风景区
+285505,285506,浙江省,10121010402A,Qiandao Lake Longchuan Bay,qiandaohulongchuanwan,千岛湖龙川湾
+285506,285507,浙江省,10121010701A,Tianmu Mountain Natural Reserve,tianmushanfengjingqu,天目山风景区
+285507,285508,浙江省,10121010702A,Zhexi Grand Canyon,zhexidaxiagu,浙西大峡谷
+285508,285509,浙江省,10121010102A,Oriental Culture Garden,dongfangwenhuayuan,东方文化园
+285509,285510,浙江省,10121010103A,Hangzhou Polar Ocean Park,hangzhoujidihaiyanggongyuan,杭州极地海洋公园
+285510,285511,浙江省,10121010104A,Leifeng Tower,leifengta,雷峰塔
+285511,285512,浙江省,10121010105A,Qinghe Lane,qinghefang,清河坊
+285512,285513,浙江省,10121010106A,Shuangxi Drifting Reception Centre,shuangxipiaoliujiedaizhongxin,双溪漂流接待中心
+285513,285514,浙江省,10121010107A,Song Dynasty Town,songcheng,宋城
+285514,285515,浙江省,10121060101A,Taizhou Ocean World,taizhouhaiyangshijie,台州海洋世界
+285515,285516,浙江省,10121060301A,Deer Island Scenic Spot,daludaofengjingqu,大鹿岛风景区
+285516,285517,浙江省,10121061001A,Linhai Jiangnan Great Wall Scenic Spot,linhaishijiangnanchangchengjingqu,临海市江南长城景区
+285517,285518,浙江省,10121060501A,Tiantai Mountain Tian Lake Scenic Spot,tiantaishantianhujingqu,天台山天湖景区
+285518,285519,浙江省,10121060601A,Xianju Palces of Interest,xianjufengjingmingshengqu,仙居风景名胜区
+285519,285520,浙江省,10121060701A,Chang Yudongtian,wenlingchangyudongtian,温岭长屿硐天
+285520,285521,浙江省,10121090402A,Hengdian Film City,hengdiandianyingcheng,横店电影城
+285521,285522,浙江省,10121090401A,Yiwu  International Trade Town Shopping and Touring Spot,yiwuguojishangmaochenggouwulvyouqu,义乌国际商贸城购物旅游区
+285522,285523,浙江省,10121090501A,Hengdian Red Army Long March Expo Center,hengdian.hongjunchangzhengbolancheng,横店.红军长征博览城
+285523,285524,浙江省,10121090502A,Hengdian Ming and Qing Dynasties Residential Expo City,hengdianmingqingminjubolancheng,横店明清民居博览城
+285524,285525,浙江省,10121090201A,Xianhua Mountain Scenic Spot,xianhuashanjingqu,仙华山景区
+285525,285526,浙江省,10121090302A,Chu-keh  Bagua Village,zhugebaguacun,诸葛八卦村
+285526,285527,浙江省,10121090101A,Double Dragon Cave Scenic Spot,shuanglongdongjingqu,双龙洞景区
+285527,285528,浙江省,10121090301A,Six-cave Mountain Scenic Spot,liudongshanfengjingmingshengqu,六洞山风景名胜区
+285528,285529,浙江省,10121090601A,Guo Cave Scenic Spot,guodongjingqu,郭洞景区
+285529,285530,浙江省,10121090602A,Shouxian Valley,shouxiangu,寿仙谷
+285530,285531,浙江省,10121040502A,Ningbo Tengtou Ecological Tourism Spot,ningbotengtoushengtailvyoushifanqu,宁波滕头生态旅游示范区
+285531,285532,浙江省,10121040503A,Xikou Scenic Spot,xikoufengjingqu,溪口风景区
+285532,285533,浙江省,10121040302A,Daqiao Ecological Farm,daqiaoshengtainongzhuang,大桥生态农庄
+285533,285534,浙江省,10121040303A,Youngor Dapeng Mountain Tourism Resort,yageerdapengshanlvyoudujiaqu,雅戈尔达蓬山旅游度假区
+285534,285535,浙江省,10121040402A,Dan Mountain Chishui Scenic Spot,danshanchishuifengjingmingshengqu,丹山赤水风景名胜区
+285535,285536,浙江省,10121040403A,Green Field Villa,lvyeshanzhuang,绿野山庄
+285536,285537,浙江省,10121040404A,Tianxia Jade Garden,tianxiayuyuan,天下玉苑
+285537,285538,浙江省,10121040103A,Baoguo Temple,baoguosi,保国寺
+285538,285539,浙江省,10121040104A,Cicheng Ancient Town,cichengguxiancheng,慈城古县城
+285539,285540,浙江省,10121040105A,Phoenix Valley Tourism Spot,fenghuangguxiuxianlvyouqu,凤凰谷休闲旅游区
+285540,285541,浙江省,10121040106A,Phoenix Mountain Seaport Park,fenghuangshanhaigangleyuan,凤凰山海港乐园
+285541,285542,浙江省,10121040107A,Jiufengshan Tourism Spot,jiufengshanlvyouqu,九峰山旅游区
+285542,285543,浙江省,10121070702A,Xianxi Adrift Spot,xianxipiaoliu,仙溪漂流
+285543,285544,浙江省,10121070703A,Xianshengmen Scenic Spot,xianshengmenjingqu,显胜门景区
+285544,285545,浙江省,10121070704A,Yandang Mountain Tourism Spot,yandangshanfengjingmingshengqu,雁荡山风景名胜区
+285545,285546,浙江省,10121070502A,Zhailiao Stream Scenic Spot,zhailiaoxifengjingqu,寨寮溪风景区
+285546,285547,浙江省,10121070401A,Yandang Mountain national Scenic Spot of China,nanyandangshanguojiazhongdianfengjingmingshengqu,南雁荡山国家重点风景名胜区
+285547,285548,浙江省,10121070701A,Yandang Mountain,zhongyandangshan,中雁荡山
+285548,285549,浙江省,10121070107A,Jiangxin Island,jiangxinyu,江心屿
+285549,285550,浙江省,10121070301A,Baizhang WaterFall,baizhangfeipu,百丈飞瀑
+285550,285551,浙江省,10121070302A,Tonglingshan National Forest Park,tonglingshanguojiasenlingongyuan,铜铃山国家森林公园
+285551,285552,浙江省,10121070801A,Nanxi River Scenic Spot,nanxijiangfengjingmingshengqu,楠溪江风景名胜区
+285552,285553,浙江省,10121070501A,Yuhai hall,yuhailou,玉海楼
+285553,285554,浙江省,10121070101A,Wenzhou Zoo,wenzhoudongwuyuan,温州动物园
+285554,285555,浙江省,10121030101A,South Lake Scenic Spot,nanhujingqu,南湖景区
+285555,285556,浙江省,10121030201A,Fengjing Ancient Town,fengjingguzhen,枫泾古镇
+285556,285557,浙江省,10121030202A,Xitang Ancient Town,xitangguzhen,西塘古镇
+285557,285558,浙江省,10121030301A,YanGuan bore the scenic spot,hainingyanguanguanchaojingqu,海宁盐官观潮景区
+285558,285559,浙江省,10121030302A,China Haining Leather City Building A,hainingzhongguopigechengazuo,海宁中国皮革城A座
+285559,285560,浙江省,10121030601A,Nanbei Lake,nanbeihu,南北湖
+285560,285561,浙江省,10121030502A,Jiulong  Moutain National Forest Park,jiulongshanguojiasenlingongyuan,九龙山国家森林公园
+285561,285562,浙江省,10121030501A,Mo's Manor,moshizhuangyuan,莫氏庄园
+285562,285563,浙江省,10121030401A,Wuzhen ancient town,wuzhen,乌镇
+285563,285564,浙江省,10121020301A,Anji Bamboo Expo Garden,anjizhuboyuan,安吉竹博园
+285564,285565,浙江省,10121020302A,Zhongnan Baicao Garden,zhongnanbaicaoyuan,中南百草园
+285565,285566,浙江省,10121020101A,Nanxun Ancient Town,nanxunguzhenjingqu,南浔古镇景区
+285566,285567,浙江省,10121020201A,Yangzi Ecun Nature Reserve,yangziebaohuqu,扬子鳄保护区
+285567,285568,浙江省,10121050104A,Lu Xun's Hometown,luxunguli,鲁迅故里
+285568,285569,浙江省,10121050105A,Shen Garden,shenyuan,沈园
+285569,285570,浙江省,10121050202A,East China Pearls and Jewellery International City South Gate,huadongguojizhubaochengnandamen,华东国际珠宝城南大门
+285570,285571,浙江省,10121050203A,xishiguli,xishiguli,西施故里
+285571,285572,浙江省,10121050204A,Zhuji wuxie Scenic Spot,zhujiwuxiefengjingqu,诸暨五泄风景区
+285572,285573,浙江省,10121050401A,Dafo Temple Scenic Spot,dafosifengjingqu,大佛寺风景区
+285573,285574,浙江省,10121050102A,Dong Lake Scenic Spot,donghujingqu,东湖景区
+285574,285575,浙江省,10121050103A,Kuaiji Mountain Tourism Holiday Resort,kuaijishanlvyoudujiaqu,会稽山旅游度假区
+285575,285576,浙江省,10121050106A,Daxianglin Village Tourism Resort,daxianglinxiangcunxiuxianlvyouqu,大香林乡村休闲旅游区
+285576,285577,浙江省,10121050107A,Lan Pavilion,lanting,兰亭
+285577,285578,浙江省,10121050108A,Shaoxing Keyan Scenic Spot,shaoxingkeyanfengjingqu,绍兴柯岩风景区
+285578,285579,浙江省,10121050201A,xishigulifengjingqu,xishigulifengjingqu,西施故里风景区
+285579,285580,浙江省,10121100101A,Jiulong Lake Scenic Spot,jiulonghufengjingqu,九龙湖风景区
+285580,285581,浙江省,10121100102A,Longmen Canyon Scenic Spot,longmenxiagufengjingqu,龙门峡谷风景区
+285581,285582,浙江省,10121100501A,Jianglang Mountain Scenic Spot,jianglangshanfengjingqu,江郎山风景区
+285582,285583,浙江省,10121100401A,Longyou Grottoes,longyoushiku,龙游石窟
+285583,285584,江西省,10124060801A,Jinggang Mountain Scenic Spot,jinggangshanfengjingqu,井冈山风景区
+285584,285585,江西省,10124060102A,Meibei Ancient Village,meibeigucun,渼陂古村
+285585,285586,江西省,10124060301A,Yanfang Ancient Village,yanfanggucun,燕坊古村
+285586,285587,江西省,10124060101A,Diaoyuan Scenic Spot,diaoyuanjingqu,钓源景区
+285587,285588,山东省,10112050501A,South Mountain Tourism Spot,nanshanlvyoujingqu,南山旅游景区
+285588,285589,山东省,10112050402A,Eight Immortals Crossing the Sea Scenic Spot,baxianguohaikoulvyoujingqu,八仙过海口旅游景区
+285589,285590,山东省,10112050403A,Penglai Pavilion scenic Spot,penglaigelvyoujingqu,蓬莱阁旅游景区
+285590,285591,山东省,10112050404A,Sanxian Mountain,sanxianshan,三仙山
+285591,285592,山东省,10112050401A,Ocean Polar Aquarium,haiyangjidishijie,海洋极地世界
+285592,285593,山东省,10112050701A,Ai Mountain International Tourism Resort,aishanwenquanguojilvyoudujiacun,艾山温泉国际旅游度假村
+285593,285594,山东省,10112050702A,Mou's Manor,moushizhuangyuan,牟氏庄园
+285594,285595,山东省,10112050107A,Jinshatan Beach Park,yantaijinshatanhaibingongyuan,烟台金沙滩海滨公园
+285595,285596,山东省,10112050108A,Yantai Mountain Scenic Spot,yantaishanjingqu,烟台山景区
+285596,285597,山东省,10112050109A,Yangma Island Travel Resort,yangmadaolvyoudujiaqu,养马岛旅游度假区
+285597,285598,山东省,10112050110A,Changyu International Wine City,zhangyuguojiputaojiucheng,张裕国际葡萄酒城
+285598,285599,山东省,10112051101A,Haiyang Travel Resort,haiyanglvyoudujiaqu,海阳旅游度假区
+285599,285600,山东省,10112060104A,Bailanglbzhou Wetland Park,bailanglvzhoushidigongyuan,白浪绿洲湿地公园
+285600,285601,山东省,10112060105A,Jinbao Park,jinbaoleyuan,金宝乐园
+285601,285602,山东省,10112060106A,China Yangjiabu Folk Arts Garden,zhongguoyangjiabuminjianyishudaguanyuan,中国杨家埠民间艺术大观园
+285602,285603,山东省,10112060201A,Qingzhou Yangtian Mountain National Forest Park,qingzhouyangtianshanguojiasenlingongyuan,青州仰天山国家森林公园
+285603,285604,山东省,10112060202A,Wingzhou Yunmen Mountain Scenic Spot,qingzhouyunmenshanfengjingqu,青州云门山风景区
+285604,285605,山东省,10112060203A,Taihe Mountain Scenic Spot,taiheshanfengjingqu,泰和山风景区
+285605,285606,山东省,10112060301A,Shouguang Linhai Ecology Expo Garden,shouguanglinhaishengtaibolanyuan,寿光林海生态博览园
+285606,285607,山东省,10112060302A,Shouguang Vegetable Hi-tech Demonstration Garden,shouguangshishucaigaokejishifanyuan,寿光市蔬菜高科技示范园
+285607,285608,山东省,10112060901A,Weihe Park,weihegongyuan,潍河公园
+285608,285609,山东省,10112060902A,Zhucheng Dinosaur Museum,zhuchengshikonglongbowuguan,诸城市恐龙博物馆
+285609,285610,山东省,10112060702A,Wine City,jiuzhicheng,酒之城
+285610,285611,山东省,10112060703A,Weifang Anqiu Qingyun Mountain Folk Customs Park,weifanganqiuqingyunshanminsuyouleyuan,潍坊安丘青云山民俗游乐园
+285611,285612,安徽省,10122040202A,Jiaogang Lake Tourism Spot,jiaoganghulvyouqu,焦岗湖旅游区
+285612,285613,安徽省,10122040201A,Maoxian Cave Scenic Spot,maoxiandongfengjingqu,茅仙洞风景区
+285613,285614,安徽省,10122040101A,Shangjiao Forest Park,shangyaosenlingongyuan,上窑森林公园
+285614,285615,福建省,10123040101A,Meizhou Island National Holiday Resort,meizhoudaoguojialvyoudujiaqu,湄洲岛国家旅游度假区
+285615,285616,福建省,10123040102A,Putian Arts & Crafts City,putiangongyimeishucheng,莆田工艺美术城
+285616,285617,福建省,10123050102A,Qingyuan mountain Palces of Interest,qingyuanshanfengjingmingshengqu,清源山风景名胜区
+285617,285618,福建省,10123050603A,Siwang mansion Jinxi Temple,siwangfujinximiao,四王府锦溪庙
+285618,285619,福建省,10123050405A,Yongchun Niumu Forest Geological Tourism Resort,yongchunniumulinshengtailvyouqu,永春牛姆林生态旅游区
+285619,285620,福建省,10123050203A,Anxi Qingshui Rock,anxiqingshuiyan,安溪清水岩
+285620,285621,福建省,10123050101A,Kaiyuan Temple,kaiyuansi,开元寺
+285621,285622,福建省,10123050601A,Fengshan Tourism Spot,fengshanyoulanqu,凤山游览区
+285622,285623,福建省,10123050602A,Nan'an Lingying Scenic Tourism Region,nananshilingyingfengjinglvyouqu,南安市灵应风景旅游区
+285623,285624,福建省,10123050401A,Dongxi Grand Canyon,dongxidaxiagu,东溪大峡谷
+285624,285625,福建省,10123050402A,Kuixing Rock Scenic Spot,kuixingyanfengjingqu,魁星岩风景区
+285625,285626,福建省,10123050403A,Wuji Rock,wujiyan,乌髻岩
+285626,285627,福建省,10123050404A,Yongchun Penghu Baizhangyan Scenic Spot,yongchunpenghubaizhangyanfengjingqu,永春蓬壶百丈岩风景区
+285627,285628,河北省,10109050701A,Qingshanguan,qingshanguan,青山关
+285628,285629,河北省,10109050601A,Li Dazhao Memorial Hall,lidazhaojinianguan,李大钊纪念馆
+285629,285630,河北省,10109050602A,Tangshan Bay International Tourism Island,tangshanwanguojilvyoudao,唐山湾国际旅游岛
+285630,285631,河北省,10109050104A,Kailuan National Coal Mine Park,kailuanguojiakuangshangongyuan,开滦国家矿山公园
+285631,285632,河北省,10109050105A,South Lake Geological Scenic Spot,nanhushengtaifengjingqu,南湖生态风景区
+285632,285633,河北省,10109050106A,Tangjin Canal Geological Tourism Scenic Spot,tangjinyunheshengtailvyoudujiajingqu,唐津运河生态旅游度假景区
+285633,285634,河北省,10109050107A,Canal Chinatown,yunhetangrenjie,运河唐人街
+285634,285635,河北省,10109051102A,Shanyekou Scenic Spot,shanyekoujingqu,山叶口景区
+285635,285636,河北省,10109050901A,Caofeidian Wetland,caofeidianshidi,曹妃甸湿地
+285636,285637,河北省,10109051001A,Eastern Royal Tombs of the Qing Dynasty,qingdongling,清东陵
+285637,285638,河北省,10109051002A,Zunhua Wanfo Garden Scenic Spot,zunhuawanfoyuanjingqu,遵化万佛园景区
+285638,285639,河北省,10109050101A,South Lake City Central Ecological Park,nanhuchengshizhongyangshengtaigongyuan,南湖城市中央生态公园
+285639,285640,河北省,10109070801A,Wuqiao Acrobatics World,wuqiaozajidashijie,吴桥杂技大世界
+285640,285641,河北省,10109070301A,Tiefo Temple,tiefosi,铁佛寺
+285641,285642,山西省,10110040101A,Chang‘s Mansion,changjiazhuangyuan,常家庄园
+285642,285643,山西省,10110041001A,The God Town Temple,chenghuangmiao,城隍庙
+285643,285644,山西省,10110041002A,Pingyao Ancient City,pingyaogucheng,平遥古城
+285644,285645,山西省,10110041003A,Shuanglin Temple Painted Sculpture Museum,shuanglinsicaisuyishuguan,双林寺彩塑艺术馆
+285645,285646,山西省,10110041004A,Wenmiao Xuegong Meseum,wenmiaoxuegongbowuyuan,文庙学宫博物院
+285646,285647,山西省,10110041005A,Zhenguo Temple,zhenguosi,镇国寺
+285647,285648,山西省,10110041006A,China Pchk Museum,zhongguopiaohaobowuguan,中国票号博物馆
+285648,285649,山西省,10110041007A,China Ancient Bank Museum,zhongguoqianzhuangbowuguan,中国钱庄博物馆
+285649,285650,山西省,10110041101A,wangjiadayuan,wangjiadayuan,王家大院
+285650,285651,山西省,10110040901A,Qiao‘s Courtyard,qiaojiadayuan,乔家大院
+285651,285652,山西省,10110040701A,Cuifeng Mountain Nature Scenic Spot,cuifengshanziranfengjingqu,翠枫山自然风景区
+285652,285653,山西省,10110041201A,Mian Mountain Scenic Spot,mianshanfengjingqu,绵山风景区
+285653,285654,内蒙古自治区,10108060801A,China Heshigten Global Geopark,zhongguokeshiketengshijiedizhigongyuan,中国·克什克腾世界地质公园
+285654,285655,内蒙古自治区,10108061101A,Kelaqin Prince Mansion,kalaqinqinwangfu,喀喇沁亲王府
+285655,285656,内蒙古自治区,10108120101A,Alxa Tengeri Monn Lake Desert Geological Exploration Tourism Spot,alashanmengtenggelidalaiyuelianghushamoshengtaitanxianlvyouqu,阿拉善盟腾格里达来月亮湖沙漠生态探险旅游区
+285656,285657,内蒙古自治区,10108120102A,Helan Mountain South Temple Tourism Spot,helanshannansilvyouqu,贺兰山南寺旅游区
+285657,285658,陕西省,10111070602A,Nangong Mountain Forest Park,nangongshansenlingongyuan,南宫山森林公园
+285658,285659,陕西省,10111070101A,Xiangxidong Scenic Spot,xiangxidongfengjingqu,香溪洞风景区
+285659,285660,陕西省,10111070102A,Yinghu Scenic Spot,yinghufengjingqu,瀛湖风景区
+285660,285661,陕西省,10111070601A,Lanhe Rafting,lanhepiaoliu,岚河漂流
+285661,285662,陕西省,10111070701A,Qianjiaping Forest Park,qianjiapingsenlingongyuan,千家坪森林公园
+285662,285663,甘肃省,10116030103A,Kongtong Mountain,kongtongshan,崆峒山
+285663,285664,甘肃省,10116030202A,Tianjia Ditch Geological Scenic Spot,tianjiagoushengtaifengjingqu,田家沟生态风景区
+285664,285665,甘肃省,10116030203A,Wangmu Palace Rock Cave,wangmugongshijiao,王母宫石窖
+285665,285666,甘肃省,10116030301A,Gulingtai Jing Mountain Forest Park,gulingtaijingshansenlingongyuan,古灵台荆山森林公园
+285666,285667,甘肃省,10116030401A,Longquan Temple,longquansi,龙泉寺
+285667,285668,甘肃省,10116030101A,Liu Lake,liuhu,柳湖
+285668,285669,甘肃省,10116030102A,Taitong Villa,taitongshanzhuang,太统山庄
+285669,285670,甘肃省,10116030201A,Wangmu Palace,wangmugong,王母宫
+285670,285671,甘肃省,10116030501A,Mijia Ditch,mijiagou,米家沟
+285671,285672,甘肃省,10116080101A,West Han Dynasty Jiuquan Scenic Spot,xihanjiuquanshengji,西汉酒泉胜迹
+285672,285673,甘肃省,10116080802A,Dunhuang Mingsha Mountain YueYa Spring Palces of interest,dunhuangmingshashanyueyaquanfengjingmingshengqu,敦煌鸣沙山月牙泉风景名胜区
+285673,285674,甘肃省,10116080803A,Yadan National Geological Park,yadanguojiadizhigongyuan,雅丹国家地质公园
+285674,285675,甘肃省,10116080804A,Yangguan,yangguan,阳关
+285675,285676,甘肃省,10116080801A,Dunhuang Ancient City,dunhuanggucheng,敦煌古城
+285676,285677,青海省,10115070901A,Chakayan Lake,chakayanhu,茶卡盐湖
+285677,285678,新疆维吾尔自治区,10113010105A,Dabancheng  Salt lake  Water World,dabanchengyanhufuleyuan,达坂城·盐湖浮乐园
+285678,285679,新疆维吾尔自治区,10113010106A,Hong Moutain Park,hongshangongyuan,红山公园
+285679,285680,新疆维吾尔自治区,10113010107A,Jiulong Ecological Park,jiulongshengtaiyuan,九龙生态园
+285680,285681,新疆维吾尔自治区,10113010108A,Shenmu Park,shenmuyuan,神木园
+285681,285682,新疆维吾尔自治区,10113010109A,Jiumo Ditch Scenic Spot,shuimogoufengjingqu,水磨沟风景区
+285682,285683,新疆维吾尔自治区,10113010110A,Xishan Laojun Temple,xishanlaojunmiao,西山老君庙
+285683,285684,新疆维吾尔自治区,10113010111A,Xinjiang Street&Folk-Custom Museum,xinjiangminjieminsubowuguan,新疆民街民俗博物馆
+285684,285685,新疆维吾尔自治区,10113010112A,Salt Lake,yanhu,盐湖
+285685,285686,新疆维吾尔自治区,10113010113A,Salt Lake Scenic Spot,yanhuchengjingqu,盐湖城景区
+285686,285687,新疆维吾尔自治区,10113010114A,China colour-cotton Scenic Garden,zhongguocaimiankejiyuan,中国彩棉科技园
+285687,285688,新疆维吾尔自治区,10113010116A,Nanshan Scenic Spot Muxutai,nanshanfengjingqumuxutai,南山风景区苜蓿台
+285688,285689,新疆维吾尔自治区,10113010118A,Qinggeda Lake Tourism Scenic Spot,qinggedahulvyoufengjingqu,青格达湖旅游风景区
+285689,285690,新疆维吾尔自治区,10113100201A,Xibo Folk-Customs Garden,xibominsufengqingyuan,锡伯民俗风情园
+285690,285691,新疆维吾尔自治区,10113100501A,Wild Walnut Natural Reserve Spot,yehetaogouziranbaohuqu,野核桃沟自然保护区
+285691,285692,新疆维吾尔自治区,10113100101A,City Seaview,chengshihaijing,城市海景
+285692,285693,新疆维吾尔自治区,10113100102A,Gezanqi Folk-Customs Tourism Spot,kazanqiminsulvyouqu,喀赞其民俗旅游区
+285693,285694,新疆维吾尔自治区,10113100801A,Bagua Park,baguagongyuan,八卦公园
+285694,285695,新疆维吾尔自治区,10113100802A,Kesang Karst Cave National Forest Park,kesangrongdongguojiasenlingongyuan,科桑溶洞国家森林公园
+285695,285696,新疆维吾尔自治区,10113100901A,Kekedala Grassland's night Toursim Park,kekedalalvyoucaoyuanzhiyefengqingyuan,可克达拉旅游草原之夜风情园
+285696,285697,四川省,10127110601A,Shunan Bamboo Sea East Gate,shunanzhuhaidongmen,蜀南竹海东门
+285697,285698,四川省,10127110602A,Yibin Shunan Bamboo Sea scenic spot,yibinshunanzhuhaifengjingmingshengqu,宜宾蜀南竹海风景名胜区
+285698,285699,四川省,10127110101A,Lizhuang Ancient City,lizhuangguzhen,李庄古镇
+285699,285700,四川省,10127111001A,Xingwen karst cave Tourism Spot,xingwenshihaidongxianglvyouqu,兴文石海洞乡旅游区
+285700,285701,云南省,10129040201A,Zhujiangyuan Scenic Spot,zhujiangyuanfengjingqu,珠江源风景区
+285701,285702,云南省,10129040301A,Corlouful Sand Forest,caiseshalin,彩色沙林
+285702,285703,云南省,10129040702A,Jiulong Waterfalls Scenic Spot,jiulongpubuqunfengjingqu,九龙瀑布群风景区
+285703,285704,云南省,10129040601A,Phoenix Valley,fenghuanggu,凤凰谷
+285704,285705,云南省,10129040701A,Duoyi River,duoyihe,多依河
+285705,285706,云南省,10129080101A,Yi People ancient Town,yirenguzhen,彝人古镇
+285706,285707,云南省,10129080301A,Yuanmou Wumaotulin Scenic Spot,yuanmouwumaotulinfengjingqu,元谋物茂土林风景区
+285707,285708,云南省,10129080701A,Lions Mountain Scenic Spot,shizishanfengjingqu,狮子山风景区
+285708,285709,云南省,10129080801A,World Dinosaurs Valley,shijiekonglonggu,世界恐龙谷
+285709,285710,贵州省,10126070601A,Jiudongtian Scenic Spot,jiudongtianfengjingqu,九洞天风景区
+285710,285711,贵州省,10126070801A,Guizhou Bailidujuan Scenic Spot,guizhoubailidujuanfengjingmingshengqu,贵州百里杜鹃风景名胜区
+285711,285712,贵州省,10126070701A,Zhijin Cave,zhijindong,织金洞
+285712,285713,西藏自治区,10114010104A,Potala Palace,budalagong,布达拉宫
+285713,285714,西藏自治区,10114010101A,Jokhang Temple,dazhaosi,大昭寺
+285714,285715,西藏自治区,10114010102A,Norblingka,luobulinka,罗布林卡
+285715,285716,西藏自治区,10114010103A,Tibet Museum,xizangbowuguan,西藏博物馆
+285716,285717,西藏自治区,10114020101A,Tashihunpo Monastery,zhashenlunbusi,扎什伦布寺
+285717,285718,西藏自治区,10114020501A,Qomolangma National Nature Reserve,zhumulangmafengguojiajiziranbaohuqu,珠穆朗玛峰国家级自然保护区
+285718,285719,西藏自治区,10114030301A,Samye Monastery,sangyesi,桑耶寺
+285719,285720,西藏自治区,10114040301A,Brahmaputra Grand Canyon,yaluzangbudaxiagu,雅鲁藏布大峡谷
+285720,285721,西藏自治区,10114040101A,Lulang Scenic Spot,lulangjingqu,鲁朗景区
+285721,285722,西藏自治区,10114040501A,Basongcuo Scenic Spot,basongcuofengjingqu,巴松措风景区
+285722,285723,吉林省,10106010106A,Manchurian Tiger Park,dongbeihuyuan,东北虎园
+285723,285724,吉林省,10106010107A,Jingyuetan National Forest Park,jingyuetanguojiasenlingongyuan,净月潭国家森林公园
+285724,285725,吉林省,10106010108A,The Museum of the Imperial Palace of Manchukuo,weimanhuanggongbowuyuan,伪满皇宫博物院
+285725,285726,吉林省,10106010103A,Changchun World Sculpture Park,changchunshijiediaosugongyuan,长春世界雕塑公园
+285726,285727,吉林省,10106010104A,Changchun Movie Wonderland,changyingshijicheng,长影世纪城
+285727,285728,吉林省,10106010105A,Lianhuashan Ski Resort,lianhuashanhuaxuechang,莲花山滑雪场
+285728,285729,吉林省,10106010101A,Changchun Zoo&Plant Garden,changchundongzhiwugongyuan,长春动植物公园
+285729,285730,吉林省,10106010102A,Jilin Natural Village,jilinshengzirancun,吉林省自然村
+285730,285731,吉林省,10106010401A,Miaoxiang Mountain Scenic Spot,miaoxiangshanfengjingqu,庙香山风景区
+285731,285732,河北省,10109011109A,Xibaipo Tourism Spot,xibaipolvyouqu,西柏坡旅游区
+285732,285733,河北省,10109021101A,North China Pearl Baiyangdian,huabeimingzhubaiyangdian,华北明珠白洋淀
+285733,285734,河北省,10109022203A,Yesan Hill,yesanpo,野三坡
+285734,285735,河北省,10109040206A,Chengde Mountain Resort,chengdebishushanzhuang,承德避暑山庄
+285735,285736,河北省,10109040207A,Chengguan Men,chengguanmen,城关门
+285736,285737,河北省,10109040208A,Dehuimen,dehuimen,德汇门
+285737,285738,河北省,10109110109A,Shanhaiguan Ancient City,shanhaiguangucheng,山海关古城
+285738,285739,河北省,10109110110A,Tianxia Diyiguan scenic Spot,tianxiadiyiguanjingqu,天下第一关景区
+285739,285740,河北省,10109010601A,Wuyuezhai Scenic Spot,wuyuezhaifengjingqu,五岳寨风景区
+285740,285741,河北省,10109010102A,Tianshan Sea resort,tianshanhaishijie,天山海世界
+285741,285742,河北省,10109010302A,Zhengding Longxing Temple,zhengdinglongxingsi,正定隆兴寺
+285742,285743,河北省,10109010201A,Cangyan Mountain Scenic Spot,cangyanshanfengjingqu,苍岩山风景区
+285743,285744,江苏省,10119080106A,Memorial Tower For Martyrs In Huaihai Battle,huaihaizhanyilieshijinianta,淮海战役烈士纪念塔
+285744,285745,江苏省,10119080107A,Pengzu Garden,pengzuyuan,彭祖园
+285745,285746,江苏省,10119080108A,Shizi Mountain Chuwang tombs of Western Han Dynasty,shizishanxihanchuwangmu(peizangbingmayongkeng,狮子山西汉楚王墓(陪葬兵马俑坑
+285746,285747,江苏省,10119080109A,Xuzhou Han Dynasty Stone Gravings Museum,xuzhouhanhuaxiangshiyishuguanbeiguan,徐州汉画像石艺术馆北馆
+285747,285748,江苏省,10119080110A,Xuzhou Han Dynasty Cultural Garden,xuzhouhanwenhuajingqu,徐州汉文化景区
+285748,285749,江苏省,10119080111A,Yunlong Lake,yunlonghu,云龙湖
+285749,285750,江苏省,10119080502A,Ai Moutain Jiulong Scenic Spot,aishanjiulongfengjingqu,艾山九龙风景区
+285750,285751,江苏省,10119080701A,Maling Mountain Scenic Spot,malingshanfengjingmingshengqu,马陵山风景名胜区
+285751,285752,江苏省,10119080101A,Binhu Park,binhugongyuan,滨湖公园
+285752,285753,江苏省,10119080102A,Dadong Mountain Scenic Spot,dadongshanfengjingqu,大洞山风景区
+285753,285754,江苏省,10119080103A,Gui Mountain Han Dynasty Tombs,guishanhanmu,龟山汉墓
+285754,285755,江苏省,10119080104A,Horse-training Terrace,ximatai,戏马台
+285755,285756,安徽省,10122080301A,Bali River Provincial-Level Nature Reserve,baliheshengjiziranbaohuqu,八里河省级自然保护区
+285756,285757,安徽省,10122080302A,Di Ditch Geological Park,digoushengtaiyuan,迪沟生态园
+285757,285758,安徽省,10122080102A,Fuyang Geological Park,fuyangshengtaileyuan,阜阳生态乐园
+285758,285759,安徽省,10122080101A,Yingzhou West Lake Places of Interest,yingzhouxihufengjingmingshengqu,颖州西湖风景名胜区
+285759,285760,山东省,10112150101A,Rizhao Coastal National Forest Park,rizhaohaibinguojiasenlingongyuan,日照海滨国家森林公园
+285760,285761,山东省,10112150102A,Wanpingkou Coastal Scenic Spot,wanpingkouhaibinfengjingqu,万平口海滨风景区
+285761,285762,山东省,10112150103A,Zhudongtian Scenic Spot,zhudongtianfengjingqu,竹洞天风景区
+285762,285763,山东省,10112150201A,Wulian Mountain Scenic Spot,wulianshanfengjingqu,五莲山风景区
+285763,285764,山东省,10112160103A,Fanggan Ecological Tourism Scenic Spot,fangganshengtailvyouqu,房干生态旅游区
+285764,285765,山东省,10112160104A,Laiwu Campaign Memorial Hall,laiwuzhanyijinianguan,莱芜战役纪念馆
+285765,285766,山东省,10112160101A,Lotus Sacred Ground,lianhuashengjing,莲花圣境
+285766,285767,山东省,10112160102A,Lvzu Spring Tourism Spot,lvzuquanlvyouqu,吕祖泉旅游区
+285767,285768,山东省,10112090203A,Shandong Government Balujun 115 Division Headquarters Site,shandongshengzhengfubalujunyiyiwushisilingbujiuzhi,山东省政府八路军115师司令部旧址
+285768,285769,山东省,10112090105A,New Fourth Army Headquarters Site,xinsijunjunbujiuzhijinianguan,新四军军部旧址纪念馆
+285769,285770,山东省,10112090701A,Meng Mountain,mengshan,蒙山
+285770,285771,山东省,10112090702A,Mengshan Mengyin Yunmeng Scenic Area,mengshanmengyinyunmengjingqu,蒙山蒙阴云蒙景区
+285771,285772,山东省,10112090703A,Menglianggu Scenic Spot,menglianggujingqu,孟良崮景区
+285772,285773,山东省,10112091001A,Underground Grand Canyon,dixiadaxiagu,地下大峡谷
+285773,285774,山东省,10112091002A,Natural Underground Gallery Tourism Spot,tianrandixiahualanglvyouqu,天然地下画廊旅游区
+285774,285775,山东省,10112091003A,The sky city scenic spot,tianshangwangcheng,天上王城
+285775,285776,山东省,10112091004A,Snow Mountain Rainbow Valley,xueshancaihonggu,雪山彩虹谷
+285776,285777,山东省,10112091005A,Yishui Underground fluor Gallery,yishuidixiayingguanghulvyouqu,沂水地下莹光湖旅游区
+285777,285778,山东省,10112090803A,Tianyu Natural Museum,tianyuziranbowuguan,天宇自然博物馆
+285778,285779,山东省,10112090201A,Tianfo Places of Interest,tianfofengjingmingshengqu,天佛风景名胜区
+285779,285780,湖北省,10120130101A,Yulong Hot Spring Happy Valley,bailongchiyulongwenquanhuanlegu,白龙池玉龙温泉欢乐谷
+285780,285781,湖北省,10120130102A,Dahong Mountain Scenic Spot,dahongshanfengjingmingshengqu,大洪山风景名胜区
+285781,285782,湖北省,10120130103A,The hometown of Yan Emperor,yandishennongguli,炎帝神农故里
+285782,285783,湖北省,10120100801A,Shennong Stream,shennongxi,神农溪
+285783,285784,湖北省,10120100301A,Yesan River Scenic Spot,yesanhefengjingqu,野三河风景区
+285784,285785,湖北省,10120100103A,Enshi Tusi City,enshitusicheng,恩施土司城
+285785,285786,湖北省,10120100201A,Fobao Mountain Grand Canyon Rafting,fobaoshandaxiagupiaoliu,佛宝山大峡谷漂流
+285786,285787,湖北省,10120100202A,Tenglong Cave Grand Canyon Geological Park,tenglongdongdaxiagudizhigongyuan,腾龙洞大峡谷地质公园
+285787,285788,湖北省,10120100401A,Ping Dam YIngyuan Eco-travel Resort,pingbayingyuanshengtaixiuxianlvyouqu,坪坝营原生态休闲旅游区
+285788,285789,湖北省,10120100101A,Enshi Longlin Palace Scenic Spot,enshizhoulonglingongjingqu,恩施州龙麟宫景区
+285789,285790,湖北省,10120100102A,Suobuya Scenic Spot,suobuyafengjingqu,梭布垭风景区
+285790,285791,湖南省,10125010106A,Juzi Island Park,juzizhoutou,橘子洲头
+285791,285792,湖南省,10125010107A,Yuelu Mountain Palces of Interest,yuelushanfengjingmingshengqu,岳麓山风景名胜区
+285792,285793,湖南省,10125010502A,Jingxiang Ancient Town,jinggangguzhen,靖港古镇
+285793,285794,湖南省,10125010503A,Leifeng Memorial Hall,leifengjinianguan,雷锋纪念馆
+285794,285795,湖南省,10125010303A,Dawei Mountain National Forest Park,daweishanguojiasenlingongyuan,大围山国家森林公园
+285795,285796,湖南省,10125010205A,Comrade Liu Shaoqi Memorial Hall,liushaoqitongzhijinianguan,刘少奇同志纪念馆
+285796,285797,湖南省,10125010101A,Changsha Underwater World,changshahaidishijie,长沙海底世界
+285797,285798,湖南省,10125010102A,Hunan province Museum,hunanshengbowuguan,湖南省博物馆
+285798,285799,湖南省,10125010103A,Window of the World,shijiezhichuang,世界之窗
+285799,285800,湖南省,10125010104A,Tianxin Pavilion,tianxinge,天心阁
+285800,285801,湖南省,10125010105A,Yuelu Academy,yuelushuyuan,岳麓书院
+285801,285802,湖南省,10125010110A,Yang Kaihui Former Residence,yangkaihuiguju,杨开慧故居
+285802,285803,海南省,10131010102A,Hainan Tropical Wild Fauna and Flora Garden,hainanredaiyeshengdongzhiwuyuan,海南热带野生动植物园
+285803,285804,海南省,10131010103A,Holiday Beach Tourism Center,jiarihaitanlvyouqu,假日海滩旅游区
+285804,285805,海南省,10131010104A,Hainan Haikou Shishan Volcanic Cluster National Geopark,zhongguoleiqiongshijiedizhigongyuanhaikouyuanqu,中国雷琼世界地质公园海口园区
+285805,285806,海南省,10131010101A,Wugong Temple,wugongci,五公祠
+285806,285807,陕西省,10111010116A,Datang Lotus Garden,datangfurongyuan,大唐芙蓉园
+285807,285808,陕西省,10111010117A,Great Wild Goose Pagoda,dayanta,大雁塔
+285808,285809,陕西省,10111010118A,Huaqing Hot Spring,huaqingchi,华清池
+285809,285810,陕西省,10111010119A,Mausoleum of the First Qin Emperor,qinshihuangling,秦始皇陵
+285810,285811,陕西省,10111010120A,Xi'an China Expo,xianshiyuanhui,西安世园会
+285811,285812,陕西省,10111010108A,Cuihua Mountain,cuihuashan,翠华山
+285812,285813,陕西省,10111010109A,Datang Xishi Cultural Scenic Spot,datangxishiwenhuajingqu,大唐西市文化景区
+285813,285814,陕西省,10111010110A,Li Mountain National Forest Park,lishanguojiasenlingongyuan,骊山国家森林公园
+285814,285815,陕西省,10111010111A,Qujiang Ocean World,qujianghaiyanggongyuan,曲江海洋公园
+285815,285816,陕西省,10111010112A,Shanxi History Museum,shanxilishibowuguan,陕西历史博物馆
+285816,285817,陕西省,10111010113A,Xi'an Banpo Museum,xianbanpobowuguan,西安半坡博物馆
+285817,285818,陕西省,10111010114A,Xi'an Qinling Wildlife Park,xianqinlingyeshengdongwuyuan,西安秦岭野生动物园
+285818,285819,陕西省,10111080303A,Wuhou Tomb,wuhoumu,武侯墓
+285819,285820,陕西省,10111080301A,Shimen Scenic Spot West Gate,shimenfengjingquximen,石门风景区西门
+285820,285821,陕西省,10111080302A,Wu Hou Temple,wuhouci,武侯祠
+285821,285822,陕西省,10111080401A,Zhangliang Temple,zhangliangmiao,张良庙
+285822,285823,陕西省,10111080101A,Hanzhong Museum East Gate,hanzhongbowuguandongmen,汉中博物馆东门
+285823,285824,陕西省,10111080601A,Nansha Lake,nanshahu,南沙湖
+285824,285825,陕西省,10111081001A,Nanhu Scenic Spot,nanhufengjingqu,南湖风景区
+285825,285826,陕西省,10111080501A,Cailun Cultural Museum,cailunwenhuabowuguan,蔡伦文化博物馆
+285826,285827,陕西省,10111080502A,Crested ibis Geological Park,zhuhuanshengtaiyuan,朱鹮生态园
+285827,285828,上海市,10102010007A,Oriental Pearl TV Tower,dongfangmingzhuta,东方明珠塔
+285828,285829,上海市,10102010008A,Lujiazui Central Green Space,lujiazuizhongxinlvdi,陆家嘴中心绿地
+285829,285830,上海市,10102010009A,Shanghai Nature Museum,shanghaiziranbowuguan(shanghaikejiguanfenguan),上海自然博物馆(上海科技馆分馆)
+285830,285831,上海市,10102130009A,Shanghai Technology Park,shanghaikejiguan,上海科技馆
+285831,285832,上海市,10102130010A,Shanghai Wild Animal Park,shanghaiyeshengdongwuyuan,上海野生动物园
+285832,285833,上海市,10102010004A,Lanxin Theater Former Site,lanxinxiyuanjiuzhi,兰心戏院旧址
+285833,285834,上海市,10102010005A,Shanghai Urban Planning Exhibition Center,shanghaichengshiguihuazhanshiguan,上海城市规划展示馆
+285834,285835,上海市,10102010006A,Yu Garden,yuyuan,豫园
+285835,285836,上海市,10102010011A,Shanghai Museum,shanghaibowuguan,上海博物馆
+285836,285837,上海市,10102010014A,Gongqing National Forest Park,gongqingguojiasenlingongyuan,共青国家森林公园
+285837,285838,上海市,10102010016A,Shanghai Zoo,shanghaidongwuyuan,上海动物园
+285838,285839,上海市,10102020002A,Jinjiang Park,jinjiangleyuan,锦江乐园
+285839,285840,辽宁省,10107070201A,Jinzhou Bijia Mountain Scenic Spot,jinzhoubijiashanfengjingqu,锦州笔架山风景区
+285840,285841,辽宁省,10107070102A,Jinzhou Beiputuo Mountain Scenic Spot,jinzhoubeiputuoshanlvyouqu,锦州北普陀山旅游区
+285841,285842,辽宁省,10107070103A,Jinzhou Museum,jinzhoushibowuguan,锦州市博物馆
+285842,285843,辽宁省,10107070104A,Liaoshen Campaign Memorial Hall,liaoshenzhanyijinianguan,辽沈战役纪念馆
+285843,285844,辽宁省,10107070601A,Yiwulv Mountain Palces of Interest,yiwulvshanguojiazhongdianfengjingmingshengqu,医巫闾山国家重点风景名胜区
+285844,285845,辽宁省,10107070401A,Fengguo Temple,fengguosi,奉国寺
+285845,285846,辽宁省,10107070101A,Ling River Park,linghegongyuan,凌河公园
+285846,285847,吉林省,10106030301A,Changbaishan National Nature Reserve,changbaishanguojiajiziranbaohuqu,长白山国家级自然保护区
+285847,285848,吉林省,10106030201A,Yanming Lake Resort,yanminghulvyoudujiaqu,雁鸣湖旅游度假区
+285848,285849,河南省,10118010403A,Song Mountain National Places of Interest,songshanguojiafengjingmingshengqu,嵩山国家风景名胜区
+285849,285850,河南省,10118010404A,Song Mountain Shaolin Scenic Spot,songshanshaolinfengjingqu,嵩山少林风景区
+285850,285851,河南省,10118010602A,Yellow Emperor's Hometown,huangdiguli,黄帝故里
+285851,285852,河南省,10118010106A,Century Amusement Park,shijihuanleyuan,世纪欢乐园
+285852,285853,河南省,10118010107A,Zhengzhou Yellow River Scenic Spot,zhengzhouhuanghefengjingmingshengqu,郑州黄河风景名胜区
+285853,285854,河南省,10118010202A,Kangbaiwan's Mansions,kangbaiwanzhuangyuan,康百万庄园
+285854,285855,河南省,10118010401A,Songyang Academy,songyangshuyuan,嵩阳书院
+285855,285856,河南省,10118010402A,Zhongyue Temple,zhongyuemiao,中岳庙
+285856,285857,河南省,10118010601A,Shizu Mountain,shizushan(jucishanjingqu）,始祖山(具茨山景区
+285857,285858,河南省,10118010101A,Fengle Sunflower Garden,fenglekuiyuan,丰乐葵园
+285858,285859,河南省,10118010102A,Yellow River Fujing Geological World,huanghefujingshengtaishijie,黄河富景生态世界
+285859,285860,河南省,10118010103A,Golden Egret&Ostrich Amusement Park,jinlutuoniaoyouleyuan,金鹭鸵鸟游乐园
+285860,285861,广西壮族自治区,10130060201A,Shibiao Mountain Tourism Scenic Spot,shibiaoshanxiuxianlvyoufengjingqu,石表山休闲旅游风景区
+285861,285862,广西壮族自治区,10130060101A,Longmu Temple,longmumiao,龙母庙
+285862,285863,广东省,10128110601A,Chuan Island Customs Trousim Spot,chuandaofengqing,川岛风情
+285863,285864,广东省,10128110602A,Fudu Hot Spring Holiday Resort,fudouwenquandujiacun,富都温泉度假邨
+285864,285865,广东省,10128110501A,Jinshan Hot Spring Tourism Resort,jinshanwenquandujiacun,金山温泉度假村
+285865,285866,广东省,10128110502A,Jinjiang Hot Spring,jinjiangwenquan,锦江温泉
+285866,285867,广东省,10128110301A,Li Garden,liyuan,立园
+285867,285868,广东省,10128110302A,Zili Town Diao Halls,zilicundiaolouqun,自力村碉楼群
+285868,285869,广东省,10128110101A,Gudou Hot Spring Holiday Resort,gudouwenquanzonghedujiaqu,古兜温泉综合度假区
+285869,285870,广东省,10128110102A,Guifeng Mountain Scenic Spot,guifengshanfengjingqu,圭峰山风景区
+285870,285871,江苏省,10119010120A,Nanjing Confucius Temple,nanjingfuzimiao,南京夫子庙
+285871,285872,江苏省,10119010121A,Dr. Sun Yat-sen's Mausoleum,zhongshanling,中山陵
+285872,285873,江苏省,10119010122A,Zhongshan Scenic Spot,zhongshanfengjingmingshengqu,钟山风景名胜区
+285873,285874,江苏省,10119010108A,Chaotian Palace,chaotiangong,朝天宫
+285874,285875,江苏省,10119010109A,Jinghai Temple,jinghaisi,静海寺
+285875,285876,江苏省,10119010110A,Lansheng Hall,lanshenglou,览胜楼
+285876,285877,江苏省,10119010111A,nanjingmingwenhuacun,nanjingmingwenhuacun·yangshanbeicai,南京明文化村·阳山碑材
+285877,285878,江苏省,10119010112A,Qixia Mountain Scenic Spot,qixiashanfengjingmingshengqu,栖霞山风景名胜区
+285878,285879,江苏省,10119010113A,Memorial Hall of the Victims in Nanjing Massacre by Japanese Invaders,qinhuarijunnanjingdatushayunantongbaojinianguan,侵华日军南京大屠杀遇难同胞纪念馆
+285879,285880,江苏省,10119010114A,Xuanwu Lake Park,xuanwuhugongyuan,玄武湖公园
+285880,285881,江苏省,10119010115A,Yuhuatai Places of Interest,yuhuataifengjingmingshengqu,雨花台风景名胜区
+285881,285882,江苏省,10119010116A,Yuejiang Hall,yuejianglou,阅江楼
+285882,285883,江西省,10124100101A,Xiannv Lake Scenic Spot,xiannvhujingqu,仙女湖景区
+285883,285884,山东省,10112140105A,Tai'erzhuang Ancient Town,taierzhuanggucheng,台儿庄古城
+285884,285885,山东省,10112140101A,Baodugu national Forest Park,baoduguguojiasenlingongyuan,抱犊崮国家森林公园
+285885,285886,山东省,10112140102A,Guanshiliu Park Scenic Spot,guanshiliuyuanfengjingqu,冠世榴园风景区
+285886,285887,山东省,10112140103A,Hannuo Manor,hannuozhuangyuan,汉诺庄园
+285887,285888,山东省,10112140104A,Taierzhuang Battle Memorial Hall,taierzhuangdazhanjinianguan,台儿庄大战纪念馆
+285888,285889,山东省,10112140503A,Weishan Lake Wetland Park East Gate,weishanhushidigongyuandongmen,微山湖湿地公园东门
+285889,285890,山东省,10112140501A,Lianqing Mountain Provincial Geology Park,lianqingshanshengjidizhigongyuan,莲青山省级地质公园
+285890,285891,山东省,10112140502A,Tengzhou Han Dynasty Pictorial Stones Museum,tengzhouhanhuaxiangshiguan,滕州汉画像石馆
+285891,285892,安徽省,101220201,Huai River Bengbu Dam Scenic Spot,huaihebengbuzhashuilifengjingqu,淮河蚌埠闸水利风景区
+285892,285893,安徽省,101220205,Longzi lake Park,longzihugongyuan,龙子湖公园
+285893,285894,安徽省,101220201,Zhanggong Mountain Park,zhanggongshangongyuan,张公山公园
+285894,285895,安徽省,101220202,Hequan Farm,hequannongzhuang,禾泉农庄
+285895,285896,安徽省,101220202,Bairu Spring Park,bairuquangongyuan,白乳泉公园
+285896,285897,河北省,10109040203A,Puning Temple,puningsi,普宁寺
+285897,285898,河北省,10109040204A,Putuo Zongcheng Temple,putuozongshengzhimiao,普陀宗乘之庙
+285898,285899,河北省,10109040205A,Qingchui Mountain,qingchuifeng,磬锤峰
+285899,285900,河北省,10109040701A,Dong Cunrui Martyrs Cemetery,dongcunruilieshilingyuan,董存瑞烈士陵园
+285900,285901,河北省,10109040802A,Jingbei First Grassland Resort,jingbeidiyicaoyuan,京北第一草原
+285901,285902,河北省,10109040601A,Jinshan Ridge Great Wall Toursim Spot,jinshanlingchangchenglvyouqu,金山岭长城旅游区
+285902,285903,河北省,10109041001A,Saihan Dam National Forest park,saihanbaguojiasenlingongyuan,塞罕坝国家森林公园
+285903,285904,河北省,10109041002A,Yudaokou Scenic Spot,yudaokoufengjingqu,御道口风景区
+285904,285905,河北省,10109040401A,Jiulongtan Nature Scenic Spot,jiulongtanziranfengjingqu,九龙潭自然风景区
+285905,285906,山西省,10110080101A,Haizhou Guandi Temple,haizhouguandimiao,解州关帝庙
+285906,285907,山西省,10110081101A,Yongle Palace,yonglegong,永乐宫
+285907,285908,山西省,10110081001A,Pujiu Temple,pujiusi,普救寺
+285908,285909,山西省,10110080901A,Li Mountain Scenic Spot,lishanfengjingqu,历山风景区
+285909,285910,山西省,10110080401A,Gufeng Mountain,gufengshan,孤峰山
+285910,285911,内蒙古自治区,10108110201A,Arxan Shengquan Tourism Resort,Aershanhaishenshengquanlvyoudujiaqu,阿尔山海神圣泉旅游度假区
+285911,285912,内蒙古自治区,10108110101A,Genghis Khan Temple,chengjisihanmiao,成吉思汗庙
+285912,285913,内蒙古自治区,10108110901A,Wanhao Mongolian Yurt,wanhaomenggudaying,万豪蒙古大营
+285913,285914,青海省,10115050501A,Nianbao Yuze Scenic Spot,nianbaoyuzejingqu,年保玉则景区
+285914,285915,新疆维吾尔自治区,10113061204A,Golden Sandy Beach,jinshatan,金沙滩
+285915,285916,新疆维吾尔自治区,10113060701A,Bazhou Xiangsi Lake Tourism Resort,bazhouxiangsihuyoulvdujiaqu,巴州相思湖游旅度假区
+285916,285917,新疆维吾尔自治区,10113060101A,Xinjiang Ku'erle Lotus Lake Tourism Spot,xinjiangkuerlelianhuahulvyouqu,新疆库尔勒莲花湖旅游区
+285917,285918,新疆维吾尔自治区,10113060301A,Luoburen Village,luoburencunzhai,罗布人村寨
+285918,285919,新疆维吾尔自治区,10113061201A,Ahongkou,Ahongkou,阿洪口
+285919,285920,新疆维吾尔自治区,10113061202A,Nong'ershi Tian Ge'er Island Scenic Spot,nongershitiangeerdao(yinshatanlvyouqu,农二师天格尔岛(银沙滩旅游区
+285920,285921,新疆维吾尔自治区,10113061203A,Tian Ge'er Island,tiangeerdao,天格尔岛
+285921,285922,新疆维吾尔自治区,10113140201A,White Birch Garden Scenic Spot,baihuayuanfengjingqu,白桦园风景区
+285922,285923,新疆维吾尔自治区,10113140601A,Wucai Beach,wucaitan,五彩滩
+285923,285924,新疆维吾尔自治区,10113140101A,Hualin Park,hualingongyuan,桦林公园
+285924,285925,新疆维吾尔自治区,10113140102A,Jinshan Grape Scenic Spot,jinshanputaofengjingqu,金山葡萄风景区
+285925,285926,新疆维吾尔自治区,10113140103A,Jinshan Forest Park,jinshansenlingongyuan,金山森林公园
+285926,285927,新疆维吾尔自治区,10113140104A,Wuzhi Spring Scenic Spot,wuzhiquanfengjingqu,五指泉风景区
+285927,285928,新疆维吾尔自治区,10113140701A,Golden Coast,huangjinhaian,黄金海岸
+285928,285929,云南省,10129010701A,Shilin Scenic Spot,shilinfengjingqu,石林风景区
+285929,285930,云南省,10129010601A,Jiuxiang Scenic Spot,jiuxiangfengjingqu,九乡风景区
+285930,285931,云南省,10129010102A,Daguangong Garden,daguangongyuan,大观公园
+285931,285932,云南省,10129010103A,Guandu AncientTown,guanduguzhen,官渡古镇
+285932,285933,云南省,10129010104A,Jindian Places of Interest,jindianfengjingmingshengqu,金殿风景名胜区
+285933,285934,云南省,10129010105A,World Horticulture Exposition Garden,shijieyuanyibolanyuan,世界园艺博览园
+285934,285935,云南省,10129010106A,Xishan Forest Park,xishansenlingongyuan,西山森林公园
+285935,285936,云南省,10129010107A,Yunnan Nationalities Village,yunnanminzucun,云南民族村
+285936,285937,云南省,10129010108A,Zhonghao Luosiwan International Business & Trade Mansion,zhonghaoluosiwanguojishangmaocheng,中豪·螺蛳湾国际商贸城
+285937,285938,云南省,10129010101A,Yunnan Home Museo Civico,yunnanrenjiaminjianbowuguan,云南人家民间博物馆
+285938,285939,云南省,10129020104A,Chongsheng Temple Santa Culture Tourism Spot,chongshengsisantawenhualvyouqu,崇圣寺三塔文化旅游区
+285939,285940,云南省,10129130105A,Pudacuo National Park,pudacuoguojiagongyuan,普达措国家公园
+285940,285941,云南省,10129140104A,Lijiang AncientTown,lijianggucheng,丽江古城
+285941,285942,云南省,10129140106A,Yulong Snow Mountain National Scenic Spot,yulongxueshanguojiafengjingmingshengqu,玉龙雪山国家风景名胜区
+285942,285943,云南省,10129160501A,Xishuangbanna Tropical Botanical Garden Chinese Academy of Sciences,xishuangbannaredaizhiwuyuan,西双版纳热带植物园
+285943,285944,云南省,10129160502A,China Academy of Sciences Xishuangbanna Redai Botanical Garden Kunming Branch West Gate,zhongguokexueyuanxishuangbannaredaizhiwuyuanximen,中国科学院西双版纳热带植物园西门
+285944,285945,云南省,10129030302A,Jianshuiwen Temple,jianshuiwenmiao,建水文庙
+285945,285946,云南省,10129030303A,Swallow Cave,yanzidong,燕子洞
+285946,285947,云南省,10129031101A,Huxi Alu Ancient Cave Toursim Spot,luxialugudongjingqu,泸西阿庐古洞景区
+285947,285948,云南省,10129030301A,Zhu's Garden,zhujiahuayuan,朱家花园
+285948,285949,贵州省,10126030601A,Huangguoshu Waterfall,huangguoshupubujingqu,黄果树瀑布景区
+285949,285950,贵州省,10126030101A,Long Palace Places of Interest,longgongfengjingmingshengqu,龙宫风景名胜区
+285950,285951,贵州省,10126030301A,Yelang Cave Scenic Spot,yelangdongjingqu,夜郎洞景区
+285951,285952,贵州省,10126030501A,Getu River Scenic Spot,getuhefengjingqu,格凸河风景区
+285952,285953,贵州省,10126060201A,Fanjing Mountain National Natural Reserve Spot South Gate,fanjingshanguojiajiziranbaohuqunanmen,梵净山国家级自然保护区南门
+285953,285954,贵州省,10126060101A,Jiulong Cave,jiulongdong,九龙洞
+285954,285955,贵州省,10126060701A,Fanjing Mountain National Natural Reserve Spot,fanjingshanguojiajiziranbaohuqu,梵净山国家级自然保护区
+285955,285956,黑龙江省,10105110301A,Nongken Dangbi Town Tourism Spot,nongkendangbizhenlvyouqu,农垦当壁镇旅游区
+285956,285957,黑龙江省,10105110401A,Qilin Mountain Scenic Spot,qilinshanfengjingqu,麒麟山风景区
+285957,285958,黑龙江省,10105110201A,The Japanese invasion of China Hutou Fortress Site Museum,qinhuarijunhutouyaosaiyizhibowuguan,侵华日军虎头要塞遗址博物馆
+285958,285959,黑龙江省,10105020102A,Longsha Park,longshagongyuan,龙沙公园
+285959,285960,黑龙江省,10105020103A,Mingyue Island,mingyuedao,明月岛
+285960,285961,黑龙江省,10105020104A,Zhalong Nature Reserve,zhalongziranbaohuqu,扎龙自然保护区
+285961,285962,黑龙江省,10105020101A,Xishui Forest Park,xishuisenlingongyuan,溪水森林公园
+285962,285963,内蒙古自治区,10108100102A,Hailar Agriculture Development Garden,hailaernongyefazhanyuanqu,海拉尔农业发展园区
+285963,285964,内蒙古自治区,10108100103A,World Anti-Fascist War Hailar Memorial Hall,shijiefanfaxisizhanzhenghailaerjinianyuan,世界反法西斯战争海拉尔纪念园
+285964,285965,内蒙古自治区,10108101201A,Diaoqiao Park,diaoqiaogongyuan,吊桥公园
+285965,285966,内蒙古自治区,10108101001A,Guomen Scenic Spot,guomenjingqu,国门景区
+285966,285967,内蒙古自治区,10108101002A,Manzhouli Sino-Russian Inter-Trade Tourism Spot,manzhoulizhongehushimaoyilvyouqu,满洲里中俄互市贸易旅游区
+285967,285968,内蒙古自治区,10108100701A,Huhenuoer Tourism Spot,huhenuoerlvyoujingqu,呼和诺尔旅游景区
+285968,285969,内蒙古自治区,10108100401A,China Daur National Garden,zhongguodawoerminzuyuan,中国达斡尔民族园
+285969,285970,内蒙古自治区,10108100101A,Haila'er National Forest Park,hailaerguojiasenlingongyuan,海拉尔国家森林公园
+285970,285971,内蒙古自治区,10108101401A,Moerdaoga National Forest Park,moerdaogaguojiasenlingongyuan,莫尔道嘎国家森林公园
+285971,285972,黑龙江省,10105040201A,Daliangzi River National Forest Park,daliangziheguojiasenlingongyuan,大亮子河国家森林公园
+285972,285973,黑龙江省,10105040101A,Shuiyuan Mountain Park,shuiyuanshangongyuan,水源山公园
+285973,285974,黑龙江省,10105040601A,Sanjiang Kou,sanjiangkou,三江口
+285974,285975,黑龙江省,10105040701A,Songhua River Graves,songhuajiangbeilin,松花江碑林
+285975,285976,山东省,10112071005A,Qufu Minggu City,qufuminggucheng,曲阜明故城
+285976,285977,山东省,10112070301A,Tengzhou Weishanhu Wetland Red Lotus Tourism Scenic Spot,tengzhouweishanhushidihonghelvyoufengjingqu,滕州微山湖湿地红荷旅游风景区
+285977,285978,山东省,10112071102A,Meng Temple,mengmiao,孟庙
+285978,285979,山东省,10112071103A,Zoucheng Yishan Scenic Spot,zouchengshiyishanfengjingmingshengqu,邹城市峄山风景名胜区
+285979,285980,山东省,10112071002A,Konglin Tourism Spot,konglinlvyouqu,孔林旅游区
+285980,285981,山东省,10112071003A,Confucius Six Art City,kongziliuyicheng,孔子六艺城
+285981,285982,山东省,10112071004A,Qufu Confucius Temple Places of Interest,qufukongmiaokongfulvyouqu,曲阜孔庙孔府旅游区
+285982,285983,山东省,10112070901A,The Marshes of Mount Liang Scenic Spots,shuiboliangshanfengjingmingshengqu,水泊梁山风景名胜区
+285983,285984,山东省,10112070801A,Anshan Temple,anshansi,安山寺
+285984,285985,山东省,10112070501A,International Agricultural Science Wonder,guojinongkeqiguan,国际农科奇观
+285985,285986,山东省,10112070502A,Yanzhou Museum,yanzhoubowuguan,兖州博物馆
+285986,285987,山东省,10112070101A,Jining East Temple,jiningdongdasi,济宁东大寺
+285987,285988,山东省,10112080202A,Lotus Mountain,lianhuashan,莲花山
+285988,285989,山东省,10112080502A,Dongping Wetland Park,dongpinghushidigongyuan,东平湖湿地公园
+285989,285990,山东省,10112080503A,Shuihu Ancient Town,shuihuguzhen,水浒古镇
+285990,285991,山东省,10112080201A,Hesheng Garden,heshengyuan,和圣园
+285991,285992,山东省,10112080101A,Culai Mountain National Forest Park,culaishanguojiasenlingongyuan,徂徕山国家森林公园
+285992,285993,山东省,10112080102A,Tai Mountain Energy Storage Scientific Water City,taishanxunengkepushuicheng,泰山蓄能科普水城
+285993,285994,山东省,10112080501A,La Mountain National Forest Park,lashanguojiasenlingongyuan,腊山国家森林公园
+285994,285995,湖北省,10120050501A,Taohuachong Scenic Spot,taohuachongfengjingqu,桃花冲风景区
+285995,285996,湖北省,10120050601A,Sanjiao Mountain National Forest Park,sanjiaoshanguojiasenlingongyuan,三角山国家森林公园
+285996,285997,湖北省,10120050301A,Guifeng Mountain Scenic Spot,guifengshanfengjingqu,龟峰山风景区
+285997,285998,湖北省,10120050302A,Macheng Martyrs Cemetery,machenglieshilingyuan,麻城烈士陵园
+285998,285999,湖北省,10120050201A,Huangma Uprising Memorial Hall,huangmaqiyiheEyuwansuqujinianyuan,黄麻起义和鄂豫皖苏区纪念园
+285999,286000,湖北省,10120050401A,Bodao Mountain Scenic Spot East Gate,bodaofengfengjingqudongmen,薄刀峰风景区东门
+286000,286001,湖北省,10120050402A,Luotian Dabie Mountain Bodaofeng Scenic Spot,luotiandabieshanbodaofengfengjingqu,罗田大别山薄刀峰风景区
+286001,286002,湖北省,10120050101A,Dongpo Red Cliffs,dongpochibi,东坡赤壁
+286002,286003,广东省,10128140301A,Jinshuitai Hot Spring,jinshuitaiwenquan,金水台温泉
+286003,286004,广东省,10128140302A,Sixth Patriarch  Huineng Former Residence,liuzuhuinengguju,六祖惠能故居
+286004,286005,广东省,10128140303A,Yunfu Jinshuitai Hot Spring Scenic Spot,yunfushijinshuitaiwenquanjingqu,云浮市金水台温泉景区
+286005,286006,云南省,10129050602A,Heshun Ancient Town,heshunguzhen,和顺古镇
+286006,286007,云南省,10129050603A,Rehai Toursim Spot,rehaijingqu,热海景区
+286007,286008,云南省,10129050604A,Zongbing mansion,zongbingfu,总兵府
+286008,286009,云南省,10129050601A,Tengchong Volcanic Geothermal National Geological Park,tengchonghuoshandireguojiadizhigongyuan,腾冲火山地热国家地质公园
+286009,286010,山西省,10110010101A,Donghucu Garden,donghucuyuan,东湖醋园
+286010,286011,山西省,10110010102A,Fen River  Wetland Scenic Spot,fenheshidigongyuan,汾河湿地公园
+286011,286012,山西省,10110010103A,Jin Dynasty Temple park,jincigongyuan,晋祠公园
+286012,286013,山西省,10110010104A,Forest Park West Gate,senlingongyuanximen,森林公园西门
+286013,286014,山西省,10110010105A,Taiyuan Zoo,taiyuandongwuyuan,太原动物园
+286014,286015,山西省,10110010106A,China Coal Museum,zhongguomeitanbowuguan,中国煤炭博物馆
+286015,286016,山西省,10110070101A,Yao Temple,yaomiao,尧庙
+286016,286017,山西省,10110071001A,Dahuaishu Ancestor Memorial Garden,dahuaishuxungenjizuyuan,大槐树寻根祭祖园
+286017,286018,山西省,10110110701A,North Wudang Mountain Scenic Spot,beiwudangshanfengjingqu,北武当山风景区
+286018,286019,山西省,10110100301A,Wutai Mountain Scenery Spot,wutaishanfengjingmingshengqu,五台山风景名胜区
+286019,286020,山西省,10110100701A,Luya Mountain Scenic Spot,luyashanfengjingqu,芦芽山风景区
+286020,286021,山西省,10110100702A,Wannian Ice Cave,wannianbingdong,万年冰洞
+286021,286022,山西省,10110020101A,Yungang Grottoes,yungangshiku,云冈石窟
+286022,286023,山西省,10110060302A,Huangchengxiang Mansion,huangchengxiangfu,皇城相府
+286023,286024,山西省,10110060603A,Qingtian River Scenic Spot,qingtianhefengjingqu,青天河风景区
+286024,286025,山西省,10110020102A,Datong Valcanos,datonghuoshanqun,大同火山群
+286025,286026,山西省,10110020701A,Beiyue Heng Mountain,beiyuehengshan,北岳恒山
+286026,286027,山西省,10110020702A,Xuankong Temple,xuankongsi,悬空寺
+286027,286028,北京市,10101030010A,Olympic Forest Park,aolinpikesenlingongyuan,奥林匹克森林公园
+286028,286029,北京市,10101030011A,Beijing Olympic Forest Park,beijingaolinpikegongyuan,北京奥林匹克公园
+286029,286030,北京市,10101030012A,National Stadium,guojiatiyuchang,国家体育场
+286030,286031,北京市,10101030004A,Beijing Happy Valley,beijinghuanlegu,北京欢乐谷
+286031,286032,北京市,10101030005A,Beijing Chinese Nation Museum,beijingzhonghuaminzubowuyuan,北京中华民族博物院
+286032,286033,北京市,10101030006A,Chaoyang Park,chaoyanggongyuan,朝阳公园
+286033,286034,北京市,10101030007A,Crab Island ecological Resort,xiedaolvseshengtaidujiacun,蟹岛绿色生态度假村
+286034,286035,北京市,10101030008A,China Red Sandalwood Museum,zhongguozitanbowuguan,中国紫檀博物馆
+286035,286036,北京市,10101030009A,China Nationalities Garden,zhonghuaminzuyuan,中华民族园
+286036,286037,北京市,10101030001A,Red Scarf Park,honglingjingongyuan,红领巾公园
+286037,286038,北京市,10101030002A,Ritan Park,ritangongyuan,日坛公园
+286038,286039,北京市,10101030003A,Tuanjie Lake Park,tuanjiehugongyuan,团结湖公园
+286039,286040,北京市,10101060001A,Hanmeilin Art Museum,hanmeilinyishuguan,韩美林艺术馆
+286040,286041,北京市,10101060002A,China Folk Weapon & Equip Museum,zhongguominbingwuqizhuangbeichenlieguan,中国民兵武器装备陈列馆
+286041,286042,北京市,10101070012A,Ming Tombs,mingshisanling,明十三陵
+286042,286043,北京市,10101070005A,Juyongguan Great Wall,juyongguanchangcheng,居庸关长城
+286043,286044,北京市,10101070006A,Longmai Hot Spring Resort,longmaiwenquandujiacun,龙脉温泉度假村
+286044,286045,北京市,10101070007A,Tianlongyuan hot Spring resort,tianlongyuanwenquanjiayuan,天龙源温泉家园
+286045,286046,北京市,10101070008A,Wendu water city,wendushuicheng,温都水城
+286046,286047,北京市,10101070009A,Xiaotangshan Agricultural & Science Demonstration Garden,xiaotangshankejinongyeshifanyuan,小汤山科技农业示范园
+286047,286048,北京市,10101070010A,Yinshan Talin Scenic Spot,yinshantalinfengjingqu,银山塔林风景区
+286048,286049,北京市,10101070011A,China Aviation Museum,zhongguohangkongbowuguan,中国航空博物馆
+286049,286050,北京市,10101070001A,Ditchya Natural Scenic Spot,gouyaziranfengjingqu,沟崖自然风景区
+286050,286051,北京市,10101070002A,Mang Mountain National Forest Park,mangshanguojiasenlingongyuan,蟒山国家森林公园
+286051,286052,北京市,10101070003A,Qipan Mountain Scenic Spot,qipanshanjingqu,棋盘山景区
+286052,286053,北京市,10101070004A,Ming Tombs Wax Statue Palace,shisanlingminghuanglaxianggong,十三陵明皇蜡像宫
+286053,286054,北京市,10101040001A,Han Dynasty Stone-bridge Wetland Nature Reserve,hanshiqiaoshidiziranbaohuqu,汉石桥湿地自然保护区
+286054,286055,北京市,10101050009A,Mutianyu Great Wall,mutianyuchangcheng,慕田峪长城
+286055,286056,北京市,10101050006A,Hongluo Temple,hongluosi,红螺寺
+286056,286057,北京市,10101050007A,Qinglong Canyon,qinglongxia,青龙峡
+286057,286058,北京市,10101050008A,Yanqi Lake,yanqihu,雁栖湖
+286058,286059,北京市,10101050001A,Beijing Survival Island Practice Base,beijingshengcundaoshijianjidi,北京生存岛实践基地
+286059,286060,北京市,10101050002A,Huanghua Chengshui Great Wall,huanghuachengshuichangcheng,黄花城水长城
+286060,286061,北京市,10101050003A,Xiangshui Lake Greatwall Scenic Spot,xiangshuihuchangchengziranfengjingqu,响水湖长城自然风景区
+286061,286062,北京市,10101050004A,Peaceful Valley Sacred Pool,yougushentan,幽谷神潭
+286062,286063,北京市,10101050005A,Yunmeng Mountain National Forest Park,yunmengshanguojiasenlingongyuan,云蒙山国家森林公园
+286063,286064,北京市,10101110003A,Beijing Wild Animal Park,beijingyeshengdongwuyuan,北京野生动物园
+286064,286065,北京市,10101110001A,Beijing Nanhaizi Elk Museum,beijingnanhaizimiluyuanbowuguan,北京南海子麋鹿苑博物馆
+286065,286066,北京市,10101110002A,Beijing Chinese Culture Park,zhonghuawenhuayuan,中华文化园
+286066,286067,北京市,10101150002A,Jinhai Lake,jinhaihu,金海湖
+286067,286068,北京市,10101150003A,Jingdong Karst Cave Tourism Spot,jingdongdarongdonglvyouqu,京东大溶洞旅游区
+286068,286069,北京市,10101150004A,Jingdong Grand Valley,jingdongdaxiagu,京东大峡谷
+286069,286070,北京市,10101150005A,Jingdong Shilinx Valley Scenic Spot,jingdongshilinxiafengjingqu,京东石林峡风景区
+286070,286071,北京市,10101150006A,Qinglongshan Tourisim Spot,qinglongshanlvyouqu,青龙山旅游区
+286071,286072,北京市,10101150001A,Yaji Mountain  Scenic Spot,yajishanjingqu,丫髻山景区
+286072,286073,北京市,10101130005A,Beijing Changyu Aifeibao International Winery,beijingzhangyuaifeibaoguojijiuzhuang,北京张裕爱斐堡国际酒庄
+286073,286074,北京市,10101130006A,Heilong Pool Natural Scenic Spot,heilongtanziranfengjingqu,黑龙潭自然风景区
+286074,286075,北京市,10101130007A,Simatai Great Wall Tourism Spot,simataichangchengyoulanqu,司马台长城游览区
+286075,286076,北京市,10101130008A,Peach-Flower-Fairy Valley,taoyuanxiangu,桃源仙谷
+286076,286077,北京市,10101130009A,Changyu Aifeibao International Winery,zhangyuaifeibaoguojijiuzhuang,张裕爱斐堡国际酒庄
+286077,286078,北京市,10101130001A,Bailong Pool Scenic Spot,bailongtanfengjingqu,白龙潭风景区
+286078,286079,北京市,10101130002A,Qingliang Valley Scenic Spot,qinglianggufengjingqu,清凉谷风景区
+286079,286080,北京市,10101130003A,Shouyun National Mining Park,shouyunguojiakuangshangongyuan,首云国家矿山公园
+286080,286081,北京市,10101130004A,Yunfeng Mountain Nature Scenic Spot,yunfengshanziranfengjingqu,云峰山自然风景区
+286081,286082,北京市,10101080009A,Badaling Great Wall,badalingchangcheng,八达岭长城
+286082,286083,北京市,10101080010A,Badaling ancient Great Wall  Scenic Spot,badalingguchangchengjingqu,八达岭古长城景区
+286083,286084,北京市,10101080006A,Badaling Shuiguan Great Wall,badalingshuiguanchangcheng,八达岭水关长城
+286084,286085,北京市,10101080007A,Longqing Valley Scenic Spot,longqingxiafengjingqu,龙庆峡风景区
+286085,286086,北京市,10101080008A,Yanqing Siliciffied Wood National Geological Park,yanqingguihuamuguojiadizhigongyuan,延庆硅化木国家地质公园
+286086,286087,北京市,10101080001A,Badaling Hot Spring Resort,badalingwenquandujiacun,八达岭温泉度假村
+286087,286088,北京市,10101080002A,Badaling Wildlife World,badalingyeshengdongwushijie,八达岭野生动物世界
+286088,286089,北京市,10101080003A,Baijing Badaling National Forest Park,beijingbadalingguojiasenlingongyuan,北京八达岭国家森林公园
+286089,286090,北京市,10101080004A,Beijing Guyaju Place of Interest,beijingshiguyajufengjingmingshengqu,北京市古崖居风景名胜区
+286090,286091,北京市,10101080005A,Song Mountain Forest Scenic Spot,songshansenlinjingqu,松山森林景区
+286091,286092,北京市,10101090004A,Beigong Forest Park,beigongsenlingongyuan,北宫森林公园
+286092,286093,北京市,10101090005A,Beijing Nangong Tourism Scenic Spot,beijingnangonglvyoujingqu,北京南宫旅游景区
+286093,286094,北京市,10101090006A,Jietai Temple,jietaisi,戒台寺
+286094,286095,北京市,10101090007A,Longtan Park,longtangongyuan,龙潭公园
+286095,286096,北京市,10101090008A,World Park,shijiegongyuan,世界公园
+286096,286097,北京市,10101090009A,Taoran Pavillion Park,taorantinggongyuan,陶然亭公园
+286097,286098,北京市,10101090010A,Chinese People's Anti-Japanese War Memorial Hall,zhongguorenminkangrizhanzhengjinianguan,中国人民抗日战争纪念馆
+286098,286099,北京市,10101090001A,Grandeur Garden,daguanyuan,大观园
+286099,286100,北京市,10101090002A,Qinglong Lake Park,qinglonghugongyuan,青龙湖公园
+286100,286101,北京市,10101090003A,Chinese People's Anti-Japanese War Memorial Sculpture Garden,zhongguorenminkangrizhanzhengjiniandiaosuyuan,中国人民抗日战争纪念雕塑园
+286101,286102,北京市,10101100001A,Badachu Park,badachugongyuan,八大处公园
+286102,286103,北京市,10101100002A,Beijing Shijing Mountain Amusement Park,beijingshijingshanyouleyuan,北京石景山游乐园
+286103,286104,北京市,10101120005A,Shenglian Mountain Scenic Spot,shenglianshanfengjingqu,圣莲山风景区
+286104,286105,北京市,10101120006A,Shidu Nature Scenic Spot,shiduziranfengjingqu,十渡自然风景区
+286105,286106,北京市,10101120007A,Shihua Cave Scenic Spot,shihuadongfengjingqu,石花洞风景区
+286106,286107,北京市,10101120008A,Yunju Temple,yunjusi,云居寺
+286107,286108,北京市,10101120009A,Zhoukoudian Site,zhoukoudianyizhi,周口店遗址
+286108,286109,北京市,10101120001A,Hancun River Tourism Town,hancunhelvyoujingcun,韩村河旅游景村
+286109,286110,北京市,10101120002A,Jinghui Golf Club,jinghuigaoerfujulebu,京辉高尔夫俱乐部
+286110,286111,北京市,10101120003A,Shangfang Mountain National Forest Park,shangfangshanguojiasenlingongyuan,上方山国家森林公园
+286111,286112,北京市,10101120004A,Xianqi Cave,xianqidong,仙栖洞
+286112,286113,北京市,10101140004A,Tanzhe Temple,tanzhesi,潭柘寺
+286113,286114,北京市,10101140001A,Huangqin Sacred Valley,huangqinxiangu,黄芩仙谷
+286114,286115,北京市,10101140002A,Jingxi Eighteen Pools,jingxishibatan,京西十八潭
+286115,286116,北京市,10101140003A,Miaofeng Mountain Scenic Spot,miaofengshanfengjingmingshengqu,妙峰山风景名胜区
+286116,286117,北京市,10101020015A,Summer Palace,yiheyuan,颐和园
+286117,286118,北京市,10101020006A,Beijing Zoo,beijingdongwuyuan,北京动物园
+286118,286119,北京市,10101020007A,Beijing Botanical Garden,beijingzhiwuyuan,北京植物园
+286119,286120,北京市,10101020008A,Phoenix Hill Nature Scenic spot,fenghuanglingziranfengjingqugongyuan,凤凰岭自然风景区公园
+286120,286121,北京市,10101020009A,Xiang Mountain Park,xiangshangongyuan,香山公园
+286121,286122,北京市,10101020010A,Yuyuan Pool Park,yuyuantangongyuan,玉渊潭公园
+286122,286123,北京市,10101020011A,The Old Summer Palace,yuanmingyuanyizhigongyuan,圆明园遗址公园
+286123,286124,北京市,10101020012A,Beijing Botanical Garden of Chinese Academy of Sciences,zhongguokexueyuanzhiwuyanjiusuobeijingzhiwuyuan,中国科学院植物研究所北京植物园
+286124,286125,北京市,10101020013A,Central Television Tower,zhongyangdianshita,中央电视塔
+286125,286126,北京市,10101020014A,Zhizhu Courtryard Park,zizhuyuangongyuan,紫竹院公园
+286126,286127,北京市,10101020001A,Baiwang Mountain Forest Park,baiwangshansenlingongyuan,百望山森林公园
+286127,286128,北京市,10101020002A,Beijing Jiu Mountain National Forest Park,beijingjiufengguojiasenlingongyuan,北京鹫峰国家森林公园
+286128,286129,天津市,10103010020A,Ancient Culture Street Tourism Spot South Gate,guwenhuajielvyouqunanmen,古文化街旅游区南门
+286129,286130,天津市,10103010021A,Tianjin Ancient Culture Street Tourism Spot,tianjinshiguwenhuajielvyouqu,天津市古文化街旅游区
+286130,286131,天津市,10103010007A,Haihe Italian Customs Industrial Darden Zone A,haiheyishifengqingqugongyeyuanAqu,海河意式风情区工业园A区
+286131,286132,天津市,10103010012A,Tianta Lake Scenic Spot,tiantahujingqu,天塔湖景区
+286132,286133,天津市,10103010013A,Dabei Temple,dabeichanyuan,大悲禅院
+286133,286134,天津市,10103010014A,Ferris Wheel of Tianjin‘s eye,tianjinzhiyanmotianlun,天津之眼摩天轮
+286134,286135,天津市,10103010019A,Tianjin Water Park,tianjinshuishanggongyuan,天津水上公园
+286135,286136,天津市,10103010001A,Haihe History Building Protection Exhibition Hall,haihelishijianzhubaohuzhanlanguan,海河历史建筑保护展览馆
+286136,286137,天津市,10103010002A,Huayun Museum,huayunbowuguan,华蕴博物馆
+286137,286138,天津市,10103010003A,Lishunde Hotel,lishundedafandian,利顺德大饭店
+286138,286139,天津市,10103010004A,Liang Qichao Memorial Hall,liangqichaojinianguan,梁启超纪念馆
+286139,286140,天津市,10103010005A,Tianjin Italian Customs Tourism Spot,tianjinyidalifengqinglvyouqu,天津意大利风情旅游区
+286140,286141,天津市,10103140005A,Pan Mountain Scenery Spot,panshanfengjingmingshengqu,盘山风景名胜区
+286141,286142,天津市,10103050004A,Tianjin Tropical Botanic Touring Garden,tianjinredaizhiwuguanguangyuan,天津热带植物观光园
+286142,286143,天津市,10103050005A,Tianjin Yangliuqing Museum,tianjinyangliuqingbowuguan,天津杨柳青博物馆
+286143,286144,天津市,10103080001A,Tianjin Binhai Aircraft Theme Park,tianjinbinhaihangmuzhutigongyuan,天津滨海航母主题公园
+286144,286145,天津市,10103100003A,Rare Stone Garden,qishiyuan,奇石园
+286145,286146,天津市,10103070001A,Qili Sea National Wetland Park,qilihaijingqu,七里海景区
+286146,286147,天津市,10103070002A,Yijuyong Wine Culture Museum,yijuyongjiuwenhuabowuguan,义聚永酒文化博物馆
+286147,286148,天津市,10103140003A,Huangyaguan Great Wall,huangyaguanchangcheng,黄崖关长城
+286148,286149,天津市,10103140004A,Ji town Dule Temple,jixiandulesi,蓟州区独乐寺
+286149,286150,天津市,10103140001A,Baxian Mountain National Natural Reserve,baxianshanguojiajiziranbaohuqu,八仙山国家级自然保护区
+286150,286151,天津市,10103040001A,Dongli Lake,donglihu,东丽湖
+286151,286152,天津市,10103040002A,Langju Hot Spring Valley,langjuwenquangu,朗钜温泉谷
+286152,286153,天津市,10103040003A,Shibo Huaming Pavillion,shibohuamingguan,世博华明馆
+286153,286154,天津市,10103040004A,Yingda Leather Clothing Museum,yingdapiyibowuguan,应大皮衣博物馆
+286154,286155,天津市,10103050001A,Feng Mountain Medicine King Ancient Temple,fengshanyaowanggusi,峰山药王古寺
+286155,286156,天津市,10103050002A,Xile City Children Occupation Explore Garden,xilechengshaoerzhiyetansuoleyuan,希乐城少儿职业探索乐园
+286156,286157,天津市,10103050003A,Yufo Temple,yufochansi,玉佛禅寺
+286157,286158,天津市,10103060001A,Tianjin Wanyuan Longshun Holiday Manor,tianjinwanyuanlongshundujiazhuangyuan,天津万源龙顺度假庄园
+286158,286159,天津市,10103100004A,Tianjin Baocheng Museum Spot,tianjinbaochengbowuyuanjingqu,天津宝成博物苑景区
+286159,286160,天津市,10103100001A,Jinnan National Agriculture Technology Garden,jinnanguojianongyekejiyuanqu,津南国家农业科技园区
+286160,286161,天津市,10103100002A,Xingyao Wuzhou,xingyaowuzhou,星耀五洲
+286161,286162,上海市,10102010001A,Peace Park,hepinggongyuan,和平公园
+286162,286163,上海市,10102010002A,Luxun Park,luxungongyuan,鲁迅公园
+286163,286164,上海市,10102010003A,Shanghai Jewish Refugees Memorial Hall,shanghaiyoutainanminjinianguan,上海犹太难民纪念馆
+286164,286165,上海市,10102050003A,Guyi Garden,guyiyuan,古猗园
+286165,286166,上海市,10102050004A,Jiadingzhou Bridge,jiadingzhouqiao,嘉定州桥
+286166,286167,上海市,10102050001A,Oriental Holiday Countryside,dongfangjiaritianyuan,东方假日田园
+286167,286168,上海市,10102050002A,Malu Grape Theme Park,maluputaozhutigongyuan,马陆葡萄主题公园
+286168,286169,上海市,10102050005A,Anting Ancient Street,antinglaojie,安亭老街
+286169,286170,上海市,10102070002A,Jinshan City Beach,jinshanchengshishatan,金山城市沙滩
+286170,286171,上海市,10102070001A,China Peasant Painting Village,zhongguonongminhuacun,中国农民画村
+286171,286172,上海市,10102090001A,Square Town,fangta,方塔
+286172,286173,上海市,10102090002A,Sheshan National Forest Park,sheshanguojiasenlingongyuan,佘山国家森林公园
+286173,286174,上海市,10102080001A,Chen Yun Former Residence  And Qingpu Revolutionary History Memorial Hall,chenyungujujiqingpugeminglishijinianguan,陈云故居暨青浦革命历史纪念馆
+286174,286175,上海市,10102080002A,Oriental Land,dongfanglvzhou,东方绿舟
+286175,286176,上海市,10102080003A,Shanghai Grand View Garden,shanghaidaguanyuan,上海大观园
+286176,286177,上海市,10102080004A,Shanghai Sun Island Tourism Resort,shanghaitaiyangdaolvyoudujiaqu,上海太阳岛旅游度假区
+286177,286178,上海市,10102080005A,Zhujiajiao Ancient Town Tourism Devlopment,zhujiajiaoguzhenlvyouqu,朱家角古镇旅游区
+286178,286179,辽宁省,10107100101A,Tianyou Temple,guangyousi,广佑寺
+286179,286180,辽宁省,10107020111A,Dalian Laohu Beach Ocean Park,dalianlaohutanhaiyanggongyuan,大连老虎滩海洋公园
+286180,286181,辽宁省,10107020112A,Jinshi Beach National Tourism Spot,jinshitanguojialvyoudujiaqu,金石滩国家旅游度假区
+286181,286182,辽宁省,10107020101A,Baiyu Mountain Scenery Spot,baiyushanfengjingmingshengqu,白玉山风景名胜区
+286182,286183,辽宁省,10107020102A,Dalian Bangchui Island Hotel Scenic Spot,dalianbangchuidaobinguanjingqu,大连棒棰岛宾馆景区
+286183,286184,辽宁省,10107020103A,Dalian Forest Zoo,daliansenlindongwuyuan,大连森林动物园
+286184,286185,辽宁省,10107020104A,Dalian Modern Museum,dalianxiandaibowuguan,大连现代博物馆
+286185,286186,辽宁省,10107020105A,Dalian Natural Museum,dalianziranbowuguan,大连自然博物馆
+286186,286187,辽宁省,10107020106A,East Jiguan Mountain Scenic Spot,dongjiguanshanjingqu,东鸡冠山景区
+286187,286188,辽宁省,10107020107A,Guanxiangying Memorial Hall,guanxiangyingjinianguan,关向应纪念馆
+286188,286189,辽宁省,10107020108A,Lushun Russo-Japanese Prison Site,lushunriEjianyujiuzhibowuguan,旅顺日俄监狱旧址博物馆
+286189,286190,辽宁省,10107020109A,Shengya Ocean World,shengyahaiyangshijie,圣亚海洋世界
+286190,286191,辽宁省,10107020110A,World Peace Park,shijiehepinggongyuan,世界和平公园
+286191,286192,吉林省,10106020301A,Beidahu Ski Resort,beidahuhuaxuechang,北大壶滑雪场
+286192,286193,吉林省,10106020101A,Songhua Lake National Scenic Spot,songhuahuguojiafengjingmingshengqu,松花湖国家风景名胜区
+286193,286194,吉林省,10106020401A,Lafa Mountain National Forest Park,lafashanguojiasenlingongyuan,拉法山国家森林公园
+286194,286195,黑龙江省,10105070301A,North Pole Village Tourism Scenic Spot,beijicunlvyoufengjingqu,北极村旅游风景区
+286195,286196,河南省,10118080107A,Millennium City Park,qingmingshangheyuan,清明上河园
+286196,286197,河南省,10118080101A,Baogong Temple,baogongci,包公祠
+286197,286198,河南省,10118080102A,Daxiangguo Temple,daxiangguosi,大相国寺
+286198,286199,河南省,10118080103A,Great with Temple,kaifengfu,开封府
+286199,286200,河南省,10118080104A,Dragon Pavillion Scenic Spot,longtingjingqu,龙亭景区
+286200,286201,河南省,10118080105A,Iron Tower Park,tietagongyuan,铁塔公园
+286201,286202,河南省,10118080106A,China Han Garden,zhongguohanyuan,中国翰园
+286202,286203,河南省,10118080501A,Jiaoyulu Memorial Hall,jiaoyulujinianyuan,焦裕禄纪念园
+286203,286204,河南省,10118090703A,Baiyun Mountain,baiyunshan,白云山
+286204,286205,河南省,10118090704A,Baiyun Mountain Tourism Spot,baiyunshanlvyouqu,白云山旅游区
+286205,286206,河南省,10118090107A,Longmen Grottoes,longmenshikujingqu,龙门石窟景区
+286206,286207,河南省,10118090202A,Longtan Grand Canyon Scenic Spot,longtandaxiagu,龙潭大峡谷
+286207,286208,河南省,10118090905A,Jiguan Cave,jiguandong,鸡冠洞
+286208,286209,河南省,10118090906A,Laojun Mountain,laojunshan,老君山
+286209,286210,河南省,10118090701A,Muzhaling Scenic Hill,muzhaling,木札岭
+286210,286211,河南省,10118090702A,Tianchi Mountain,tianchishan,天池山
+286211,286212,河南省,10118090105A,Guanlin Scenic Spot,guanlinjingqu,关林景区
+286212,286213,河南省,10118090106A,Luoyang White Horse Temple,luoyangbaimasi,洛阳白马寺
+286213,286214,河南省,10118090501A,Shenling Camp,shenlingzhai,神灵寨
+286214,286215,河南省,10118090901A,Baodu Camp Village Tourism Spot,baoduzhaijingqu,抱犊寨景区
+286215,286216,河南省,10118050703A,Yao Mountain,yaoshan,尧山
+286216,286217,河南省,10118050704A,Zhongyuan Great Buddha,zhongyuandafo,中原大佛
+286217,286218,河南省,10118050702A,Huamei valley,huameigu,画眉谷
+286218,286219,河南省,10118050701A,Zhaoping Lake,zhaopinghu,昭平湖
+286219,286220,河南省,10118050201A,Sansu Garden,sansuyuan,三苏园
+286220,286221,河南省,10118110402A,Shennong Garden,shennongtan,神农坛
+286221,286222,河南省,10118110201A,Yuntai Mountain,yuntaishan,云台山
+286222,286223,河南省,10118110301A,Laijian Jiaying Temple,chijianjiayingguan,敕建嘉应观
+286223,286224,河南省,10118110101A,Yuanrong Temple,yuanrongsi,圆融寺
+286224,286225,河南省,10118110401A,Hanguguan,hanguguan,函谷关
+286225,286226,河南省,10118110801A,Mengzhou Hanyu Cemetery,mengzhoushihanyulingyuan,孟州市韩愈陵园
+286226,286227,河南省,10118120301A,Yunmeng Mountain Scenic Spot,yunmengshanfengjingqu,云梦山风景区
+286227,286228,河南省,10118120201A,Dapi Mountain Scenic Spot,dapishanfengjingmingshengqu,大伾山风景名胜区
+286228,286229,河南省,10118030102A,Jinghua Garden,jinghuayuan,京华园
+286229,286230,河南省,10118030403A,Bali Ditch Garden of Guanshan National Geopark Park,guanshanguojiadizhigongyuanbaligouyuanqu,关山国家地质公园八里沟园区
+286230,286231,河南省,10118030404A,Henan Guanshan National Geopark Park,henanguanshanguojiadizhigongyuan,河南·关山国家地质公园
+286231,286232,河南省,10118030405A,Wanxian Mountain Scenic Spot,wanxianshanjingqu,万仙山景区
+286232,286233,河南省,10118030501A,Bigan Temple,biganmiao,比干庙
+286233,286234,河南省,10118030101A,Luwang Tomb,luwangling,潞王陵
+286234,286235,河南省,10118030401A,Baiquan Scenic Spot,baiquanfengjingqu,百泉风景区
+286235,286236,河南省,10118030402A,Huilong Scenic Spot,huilongjingqu,回龙景区
+286236,286237,河南省,10118020101A,Yinxu Royal Tomb Historic Site,yinxuwanglingyizhi,殷墟王陵遗址
+286237,286238,河南省,10118020201A,Jiangli City,youlicheng,羑里城
+286238,286239,河南省,10118020202A,Yuefei Temple,yuefeimiao,岳飞庙
+286239,286240,河南省,10118020102A,Ma's Manor,mashizhuangyuan,马氏庄园
+286240,286241,河南省,10118020502A,Linzhou Red Flag Canal  Tourism Spot,linzhouhongqiquyoulanqu,林州红旗渠游览区
+286241,286242,河南省,10118020503A,Taihang Grand Canyon Scenic Spot,taihangdaxiagufengjingqu,太行大峡谷风景区
+286242,286243,河南省,10118020501A,Taiping Mountain Scenic Spot,tianpingshanfengjingqu,天平山风景区
+286243,286244,河南省,10118020401A,Zhuanxu and Diku Cemetery,zhuanxudikuling,颛顼帝喾陵
+286244,286245,河南省,10118130102A,Qicheng Heritage Spot,qichengwenwujingqu,戚城文物景区
+286245,286246,河南省,10118130103A,Zhongyuan Green Manor Scenic Spot,zhongyuanlvsezhuangyuanjingqu,中原绿色庄园景区
+286246,286247,河南省,10118130501A,Puyang Maolou Ecological Tourism Spot,puyangmaoloushengtailvyouqu,濮阳毛楼生态旅游区
+286247,286248,河南省,10118130101A,Puyang Shijin Garden,puyangshijinyuan,濮阳世锦园
+286248,286249,河南省,10118170603A,Swan Lake Scenic Spot,tianehujingqu,天鹅湖景区
+286249,286250,河南省,10118170401A,Yuxi Grand Canyon,yuxidaxiagu,豫西大峡谷
+286250,286251,河南省,10118170201A,Sanmen Valley Hanguguan Ancient Culture Tourism Spot,sanmenxiahanguguanguwenhualvyouqu,三门峡函谷关古文化旅游区
+286251,286252,河南省,10118170601A,Gan Mountain National Forest Park South Gate,ganshanguojiasenlingongyuannanmen,甘山国家森林公园南门
+286252,286253,河南省,10118170602A,Sanmen Valley Ganshan Forest Park,sanmenxiaganshansenlingongyuan,三门峡甘山森林公园
+286253,286254,河南省,10118170101A,Sanmen Valley Dam Scenic Spot,sanmenxiadabafengjingqu,三门峡大坝风景区
+286254,286255,湖北省,10120010116A,Yellow Crane Tower,huanghelou,黄鹤楼
+286255,286256,湖北省,10120010105A,East Lake Scenic Spot,donghufengjingqu,东湖风景区
+286256,286257,湖北省,10120010106A,Guiyuan Temple,guiyuanchansi,归元禅寺
+286257,286258,湖北省,10120010107A,Hubei Musemu,hubeishengbowuguan,湖北省博物馆
+286258,286259,湖北省,10120010108A,Li Xiannian Former Residence Memorial Garden,lixianniangujujinianyuan,李先念故居纪念园
+286259,286260,湖北省,10120010109A,Mo Mountain Scenic Spot,moshanjingqu,磨山景区
+286260,286261,湖北省,10120010110A,Mulan Great Lake,mulantianchi,木兰天池
+286261,286262,湖北省,10120010111A,Qingliang Camp Scenic Spot,qingliangzhaifengjingqu,清凉寨风景区
+286262,286263,湖北省,10120010112A,Wuhan Science and Technology Museum,wuhankejiguan,武汉科技馆
+286263,286264,湖北省,10120010113A,Memorial Hall of Wuchang Uprising in 1911 Revolution,xinhaigemingwuchangqiyijinianguan,辛亥革命武昌起义纪念馆
+286264,286265,湖北省,10120010114A,Shaw Museum of China University of Geosciences,zhongguodizhidaxueyifubowuguan,中国地质大学逸夫博物馆
+286265,286266,湖北省,10120010115A,Wuhan Botanical Garden of Chinese Academy of Sciences,zhongkeyuanwuhanzhiwuyuan,中科院武汉植物园
+286266,286267,湖北省,10120060102A,Huangshi National Mine Park,huangshiguojiakuangshangongyuan,黄石国家矿山公园
+286267,286268,湖北省,10120060202A,Lei Mountain Scenic Spot,leishanfengjingmingshengqu,雷山风景名胜区
+286268,286269,湖北省,10120060101A,East Mountain Mountain Scenic Spot,dongfangshanfengjingqu,东方山风景区
+286269,286270,湖北省,10120060201A,Lei Mountain Scenic Spot East Gate,leishanfengjingmingshengqudongmen,雷山风景名胜区东门
+286270,286271,湖北省,10120060301A,Southeast Hubei Revolutionary Martyrs Cemetery,xiangEganbianquEdongnangeminglieshilingyuan,湘鄂赣边区鄂东南革命烈士陵园
+286271,286272,湖北省,10120070202A,Longyou Red Cliff Hot Spring Holiday Resort,longyouchibiwenquandujiaqu,龙佑赤壁温泉度假区
+286272,286273,湖北省,10120070203A,Lushui Lake Scenic Spot,lushuihufengjingqu,陆水湖风景区
+286273,286274,湖北省,10120070204A,Red Cliff Ancient Battlefield,sanguochibi,三国赤壁
+286274,286275,湖北省,10120070601A,Jiugong Mountain Scenic Spot,jiugongshanfengjingmingshengqu,九宫山风景名胜区
+286275,286276,湖北省,10120070602A,Yinshui Cave Geological Park,yinshuidongdizhigongyuan,隐水洞地质公园
+286276,286277,湖北省,10120070201A,Chinese city of three Kingdoms,zhonghuashuihucheng,中华水浒城
+286277,286278,湖北省,10120070101A,Xianning 131 Chengshui Cave Tourism Spot,xianningshiyisanyi(chengshuidonglvyouqu,咸宁市131(澄水洞旅游区
+286278,286279,湖南省,10125100102A,Yueyang Hall,yueyanglou,岳阳楼
+286279,286280,湖南省,10125100401A,Renbishi Hometown,renbishiguli,任弼时故里
+286280,286281,湖南省,10125100101A,Dayun Mountain National Forest Park,dayunshanguojiasenlingongyuan,大云山国家森林公园
+286281,286282,湖南省,10125100601A,Wujian Mountain Forest Park,wujianshansenlingongyuan,五尖山森林公园
+286282,286283,湖南省,10125100501A,Pingjiang Uprising Memorial Museum,pingjiangqiyijinianguan,平江起义纪念馆
+286283,286284,湖南省,10125150503A,Phoenix Ancient City Scenic Spot,fenghuangguchengjingqu,凤凰古城景区
+286284,286285,湖南省,10125150101A,Qianzhou Ancient Ciry North Gate,qianzhouguchengbeichengmen,乾州古城北城门
+286285,286286,湖南省,10125150502A,Jiliang Cave,qiliangdong,奇梁洞
+286286,286287,湖南省,10125150501A,Southern Great Wall,nanfangchangcheng,南方长城
+286287,286288,湖南省,10125150801A,Huayuan Biancheng Toutism Scenic Spot,huayuanbianchenglvyoujingqu,花垣边城旅游景区
+286288,286289,湖南省,10125121001A,,,怀化中国人民抗日战争胜利受降纪念馆
+286289,286290,湖南省,10125121101A,Comrade Xiang Jingyu Memorial Hall,xiangjingyutongzhijinianguan,向警予同志纪念馆
+286290,286291,湖南省,10125120801A,Teng Daiyuan Memorial Hall,tengdaiyuanjinianguan,滕代远纪念馆
+286291,286292,湖南省,10125120701A,Longdi Drift Spot,longdipiaoliu,龙底漂流
+286292,286293,湖南省,10125120702A,Nandu Dongzu Culture Town,nandudongzuwenhuacun,南都侗族文化村
+286293,286294,湖南省,10125120601A,Gaoyi Ancient Town,gaoyigucun,高椅古村
+286294,286295,广西壮族自治区,10130080202A,Xishan National Key Scenic Spots,xishanguojiazhongdianfengjingmingshengqu,西山国家重点风景名胜区
+286295,286296,广西壮族自治区,10130080201A,Longtan National Forest park,longtanguojiasenlingongyuan,龙潭国家森林公园
+286296,286297,广西壮族自治区,10130090601A,Lufeng Mountain Scenic Spot,lufengshanfengjingqu,鹿峰山风景区
+286297,286298,广西壮族自治区,10130090502A,Xielu Mountain Villa,xielushanzhuang,谢鲁山庄
+286298,286299,广西壮族自治区,10130090301A,Goulou Cave,gouloudongtian,勾漏洞天
+286299,286300,广西壮族自治区,10130090302A,Tianma Mountain Ecological Tourism Scenic Spot,tianmashanshengtailvyoujingqu,天马山生态旅游景区
+286300,286301,广西壮族自治区,10130090501A,Longzhu Lake Scenic Spot,longzhuhufengjingqu,龙珠湖风景区
+286301,286302,广东省,10128050401A,Nan'ao Island National Forest Park,nanaohaidaoguojiasenlingongyuan,南澳海岛国家森林公园
+286302,286303,广东省,10128050402A,Shantou Nan'ao Island Ecological Tourism Spot,shantounanaodaolvyouqu,汕头南澳岛旅游区
+286303,286304,广东省,10128050101A,Fangte Happy World Blue Mercury,fangtehuanleshijielanshuixing,方特欢乐世界·蓝水星
+286304,286305,广东省,10128050102A,Queshi Scenic Spot,hushifengjingmingshengqu,礐石风景名胜区
+286305,286306,广东省,10128050103A,Zhongxin Golf Seaside Resort,zhongxingaoerfuhaibindujiacun,中信高尔夫海滨度假村
+286306,286307,广东省,10128020601A,Danxia mountain World Geopark Park,danxiashanfengjingmingshengqu,丹霞山风景名胜区
+286307,286308,广东省,10128020202A,Guangdong Great Canyon,guangdongdaxiagu,广东大峡谷
+286308,286309,广东省,10128020101A,Caoxi Hot Spring Holiday Resort,caoxiwenquanjiaridujiacun,曹溪温泉-假日度假村
+286309,286310,广东省,10128020501A,Ancient Buddha Cave,gufodongtian,古佛洞天
+286310,286311,广东省,10128020502A,Long Lake Holiday Villa,longhudujiashanzhuang,龙湖度假山庄
+286311,286312,广东省,10128020201A,Yunmen Canyon Drift Spot,yunmenxiapiaoliu,云门峡漂流
+286312,286313,广东省,10128210301A,Basaltic Mountian,xuanwushan,玄武山
+286313,286314,广东省,10128130301A,Lianzhou Underground River,lianzhoudixiahe,连州地下河
+286314,286315,广东省,10128130701A,Baijing Palace,baojinggong,宝晶宫
+286315,286316,广东省,10128130601A,Guanyin Mountain Scenic Spot,guanyinshanfengjingqu,观音山风景区
+286316,286317,广东省,10128130602A,Julong Bay Natural Hot Spring Holiday Resort,julongwantianranwenquandujiacun,聚龙湾天然温泉度假村
+286317,286318,广东省,10128130101A,Hometown Park,guxiangli,故乡里
+286318,286319,广东省,10128130102A,Huangteng Canyon,huangtengxia,黄腾峡
+286319,286320,广东省,10128130801A,Feilai Canyon Water Conservancy Pivotal Scenic Spot,feilaixiashuilishuniufengjingqu,飞来峡水利枢纽风景区
+286320,286321,广东省,10128130802A,Qingxin Mining Hot Spring Tourism Holiday Resort,qingxinwenkuangquanlvyoudujiaqu,清新温矿泉旅游渡假区
+286321,286322,广东省,10128130803A,Xuanzhen Ancient Cave Ecotourism Holiday Resort,xuanzhengudongshengtailvyoudujiaqu,玄真古洞生态旅游度假区
+286322,286323,广东省,10128160102A,Dongguan Science & Technology Museum,dongguanshikexuejishubowuguan,东莞市科学技术博物馆
+286323,286324,广东省,10128160103A,Guanyin Mountain Forest Park,guanyinshansenlingongyuan,观音山森林公园
+286324,286325,广东省,10128160104A,The Opium War Museum,yapianzhanzhengbowuguan,鸦片战争博物馆
+286325,286326,广东省,10128160101A,Dreamland of Flowers,menghuanbaihuazhou,梦幻百花洲
+286326,286327,广东省,10128190201A,Jingming Hot spring Holiday Resort,jingmingwenquandujiacun,京明温泉度假村
+286327,286328,江苏省,10119020113A,Lingshan Grand Buddha,lingshandafo,灵山大佛
+286328,286329,江苏省,10119020114A,Lingshan Sacred Scenic Spot,lingshanshengjing,灵山胜境
+286329,286330,江苏省,10119020115A,Three Kingdoms City,sanguocheng,三国城
+286330,286331,江苏省,10119020116A,Shuihu City,shuihucheng,水浒城
+286331,286332,江苏省,10119020117A,Taihu Turtle-head Peninsula Scenic Spot,taihuyuantouzhufengjingqu,太湖鼋头渚风景区
+286332,286333,江苏省,10119020301A,Longbeishan Forest Park,longbeishansenlingongyuan,龙背山森林公园
+286333,286334,江苏省,10119020302A,Taozu Sacred Scenic Spot,taozushengjingfengjingqu,陶祖圣境风景区
+286334,286335,江苏省,10119020303A,Yixing Tuanjiu Scenic Spot,yixingshituanjiufengjingqu,宜兴市团氿风景区
+286335,286336,江苏省,10119020304A,Yixing Bamboo sea Scenic Spot,yixingzhuhaifengjingqu,宜兴竹海风景区
+286336,286337,江苏省,10119020201A,Jiangsu Jiangyin Xuezheng Cultural Tourism Spot,jiangsujiangyinxuezhengwenhualvyouqu,江苏江阴学政文化旅游区
+286337,286338,江苏省,10119020202A,Jiangyin Binjiang Fort Tourism Spot,jiangyinbinjiangyaosailvyouqu,江阴滨江要塞旅游区
+286338,286339,江苏省,10119020107A,Chong'an Pavilion,chongange,崇安阁
+286339,286340,江苏省,10119060114A,Slender West Lake  Scenic Spot,shouxihufengjingqu,瘦西湖风景区
+286340,286341,江苏省,10119060106A,Guandong History Culture Tourism Spot,dongguanlishiwenhualvyouqu,东关历史文化旅游区
+286341,286342,江苏省,10119060107A,Ge Garden,geyuan,个园
+286342,286343,江苏省,10119060108A,He Garden,heyuan,何园
+286343,286344,江苏省,10119060109A,Yangzhou Museum,yangzhoubowuguan,扬州博物馆
+286344,286345,江苏省,10119060110A,Yangzhou Daming Temple,yangzhoudamingsi,扬州大明寺
+286345,286346,江苏省,10119060111A,Yangzhou Dong Guan Street,yangzhoudongguanjie,扬州东关街
+286346,286347,江苏省,10119060112A,Yangzhou Jinghua City,yangzhoujinghuacheng,扬州京华城
+286347,286348,江苏省,10119060113A,Yangzhou China Block Printing Museum,yangzhouzhongguodiaobanyinshuabowuguan,扬州中国雕版印刷博物馆
+286348,286349,江苏省,10119060301A,Yizheng Museum,yizhengbowuguan,仪征博物馆
+286349,286350,江苏省,10119060201A,Zongzhao Garden,zongzhaoyuan,纵棹园
+286350,286351,江苏省,10119060101A,Hanling Garden,hanlingyuan,汉陵苑
+286351,286352,浙江省,10121080202A,Lishui shenlong Valley,lishuishenlonggu,丽水神龙谷
+286352,286353,浙江省,10121080203A,Nanjian Rock Scenic Spot,nanjianyanfengjingqu,南尖岩风景区
+286353,286354,浙江省,10121080204A,Suichang Gold Mine National Mine Park,suichangjinkuangguojiakuangshangongyuan,遂昌金矿国家矿山公园
+286354,286355,浙江省,10121080101A,East-west Rock,dongxiyan,东西岩
+286355,286356,浙江省,10121080401A,Xiandu National Scenic Spot,xianduguojiajifengjingmingshengqu,仙都国家级风景名胜区
+286356,286357,浙江省,10121080901A,Daji,daji,大漈
+286357,286358,浙江省,10121080902A,Window of Shexiang,shexiangzhichuang,畲乡之窗
+286358,286359,浙江省,10121080601A,Yunhe Lake Scenic Spot,yunhehujingqu,云和湖景区
+286359,286360,浙江省,10121080502A,Shimen Cave Scenic Spot,shimendongfengjingqu,石门洞风景区
+286360,286361,浙江省,10121080201A,Feishi Ling Scenic Spot,feishilingfengjingqu,飞石岭风景区
+286361,286362,浙江省,10121080801A,Ruoliao Primeval Forest,ruoliaoyuanshilin,箬寮原始林
+286362,286363,浙江省,10121080501A,Qingtian Shimen Cave Forest Park,qingtianxianshimendongsenlingongyuan,青田县石门洞森林公园
+286363,286364,江西省,10124010102A,The August 1st Nanchang Uprising Memorial Tower,bayinanchangqiyijinianta,八一南昌起义纪念塔
+286364,286365,江西省,10124010103A,Nanchang  August 1st Uprising Memorial Tower,nanchangbayiqiyijinianguan,南昌八一起义纪念馆
+286365,286366,江西省,10124010104A,Shizi Mountain,shizifeng,狮子峰
+286366,286367,江西省,10124010105A,Teng Prince Pavillion,tengwangge,滕王阁
+286367,286368,江西省,10124010106A,Tianxiang Garden,tianxiangyuan,天香园
+286368,286369,江西省,10124010101A,Bada Mountain Renmei Lake Scenic Spot,badashanrenmeihujingqu,八大山人梅湖景区
+286369,286370,江西省,10124010107A,Phoenix gullies Scenic Spot,fenghuanggoufengjingqu,凤凰沟风景区
+286370,286371,江西省,10124080102A,Deyu Geological Garden,deyushengtaiyuan,得雨生态园
+286371,286372,江西省,10124080103A,Jingde Town Ancient Kiln Folk-Custom Expo Spot,jingdezhenguyaominsubolanqu,景德镇古窑民俗博览区
+286372,286373,江西省,10124080104A,China Ceramics Garden,zhongguociyuan,中国瓷园
+286373,286374,江西省,10124080301A,Fuliang Ancient Government Office,fuliangguxianya,浮梁古县衙
+286374,286375,江西省,10124080302A,Yaoli Ancient Town Scenic Spot,yaoliguzhenfengjingqu,瑶里古镇风景区
+286375,286376,江西省,10124080201A,Hongyan Sacred Scenic Spot,hongyanxianjing,洪岩仙境
+286376,286377,江西省,10124080101A,Jingde Town China Pavillion,jingdezhentaociguan,景德镇陶瓷馆
+286377,286378,山东省,10112010103A,Baotu Spring Park,baotuquangongyuan,趵突泉公园
+286378,286379,山东省,10112010104A,Daming Lake Park,daminghugongyuan,大明湖公园
+286379,286380,山东省,10112010105A,Red Leaves Valley,hongyegu,红叶谷
+286380,286381,山东省,10112010106A,Jinan International Expo,jinanguojiyuanboyuan,济南国际园博园
+286381,286382,山东省,10112010107A,Jinan Lingyan Temple Tourism Spot,jinanlingyansilvyouqu,济南灵岩寺旅游区
+286382,286383,山东省,10112010108A,Jinan Wildlife animal World,jinanyeshengdongwushijie,济南野生动物世界
+286383,286384,山东省,10112010109A,JIuding Town Chinese Folk Customs Park,jiudingtazhonghuaminsuhuanleyuan,九顶塔中华民俗欢乐园
+286384,286385,山东省,10112010110A,Qianfo Mountain Scenic Spot,qianfoshanfengjingmingshengqu,千佛山风景名胜区
+286385,286386,山东省,10112010111A,Wulong Pool Park,wulongtangongyuan,五龙潭公园
+286386,286387,山东省,10112010403A,Baimai Spring Park,baimaiquangongyuan,百脉泉公园
+286387,286388,山东省,10112010101A,Jinan Baili Yellow River Scenic Spot East Spot,jinanbailihuanghefengjingqudongqu,济南百里黄河风景区东区
+286388,286389,山东省,10112010102A,Shuilian Canyon Scenic Spot,shuilianxiafengjingqu,水帘峡风景区
+286389,286390,山东省,10112020130A,Beijiushui,beijiushui,北九水
+286390,286391,山东省,10112020131A,Lao Mountain Scenic Spot,laoshanfengjingqu,崂山风景区
+286391,286392,山东省,10112020132A,Yangkou Tourism Spot,yangkouyoulanqu,仰口游览区
+286392,286393,山东省,10112020118A,Baolong Park Jinyin Island Pirate Kingdom,baolongleyuanjinyindaohaidaowangguo,宝龙乐园金银岛海盗王国
+286393,286394,山东省,10112020119A,Seaside Scenic Spot,haibinfengjingqu,海滨风景区
+286394,286395,山东省,10112020120A,East China Winery,huadongjiuzhuang,华东酒庄
+286395,286396,山东省,10112020121A,Golden Beach Scenic Spot,jinshatanjingqu,金沙滩景区
+286396,286397,山东省,10112020122A,Langyatai Scenic Spot,langyatai,琅琊台
+286397,286398,山东省,10112020124A,Qingdao International Arts & Crafts City,qingdaoguojigongyipincheng,青岛国际工艺品城
+286398,286399,山东省,10112020125A,Qingdao Haichang Polar Ocean World,qingdaohaichangjidihaiyangshijie,青岛海昌极地海洋世界
+286399,286400,山东省,10112020126A,Qingdao Underwater World,qingdaohaidishijie,青岛海底世界
+286400,286401,山东省,10112130104A,Liugong Island Palces of Interest,liugongdaofengjingmingshengqu,刘公岛风景名胜区
+286401,286402,山东省,10112130304A,Chengshantou National Key Scenery Spot,chengshantouguojiazhongdianfengjingmingshengqu,成山头国家重点风景名胜区
+286402,286403,山东省,10112130305A,Chi Mountain Places of interest,chishanfengjingmingshengqu,赤山风景名胜区
+286403,286404,山东省,10112130306A,Motian Hill Ecological Tourism Scenic Spot,motianlingshengtailvyoufengjingqu,摩天岭生态旅游风景区
+286404,286405,山东省,10112130401A,Daru Mountain Seaside Tourism Resort,darushanbinhailvyoudujiaqu,大乳山滨海旅游度假区
+286405,286406,山东省,10112130402A,Duofu Mountain Health Culrure City,duofushanyangshengwenhuacheng,多福山·养生文化城
+286406,286407,山东省,10112130403A,Yin Beach Seaside Tourism Resort,yintanbinhailvyoudujiaqu,银滩滨海旅游度假区
+286407,286408,山东省,10112130102A,Xianguding Scenic Spot,xiangudingfengjingqu,仙姑顶风景区
+286408,286409,山东省,10112130103A,Happiness Gate,xingfumen,幸福门
+286409,286410,山东省,10112130201A,Tianmu Hot Spring,tianmuwenquan,天沐温泉
+286410,286411,山东省,10112130202A,Weihai Tangbo Hotspring Holiday Resort,weihaitangbowenquandujiacun,威海汤泊温泉度假村
+286411,286412,山东省,10112130301A,Rongcheng Museum,rongchengbowuguan,荣成博物馆
+286412,286413,山东省,10112170701A,Yellow River Old Course  geology Forest Park,huanghegudaodizhisenlingongyuan,黄河故道地质森林公园
+286413,286414,山东省,10112170202A,Tianmu North River Water City Hot Spring Holiday Resort,tianmujiangbeishuichengwenquandujiacun,天沐江北水城温泉度假村
+286414,286415,山东省,10112170103A,Dongchang Lake Scenic Spot,dongchanghufengjingqu,东昌湖风景区
+286415,286416,山东省,10112170301A,Yanggu Jingyang Hill Tourism Spot,yanggujingyangganglvyouqu,阳谷景阳冈旅游区
+286416,286417,山东省,10112170201A,Guanzhou Pear Garden,guanzhouliyuan,冠州梨园
+286417,286418,山东省,10112170101A,Jiangti Paradise,jiangdileyuan,姜堤乐园
+286418,286419,山东省,10112170102A,Liaocheng Botanical Garden,liaochengzhiwuyuan,聊城植物园
+286419,286420,安徽省,10122130101A,Tongling Tianjing Lake Scenic Spot,tonglingtianjinghujingqu,铜陵天井湖景区
+286420,286421,安徽省,10122130102A,Tongling Yongquan Farm,tonglingyongquannongzhuang,铜陵永泉农庄
+286421,286422,安徽省,10122060404A,Tianzhu Mountain Tourism Spot,tianzhushanlvyouqu,天柱山旅游区
+286422,286423,安徽省,10122060301A,Huating Lake Scenic Spot,huatinghufengjingqu,花亭湖风景区
+286423,286424,安徽省,10122060803A,Mingtang Mountain Scenery Spot,mingtangshanfengjingmingshengqu,明堂山风景名胜区
+286424,286425,安徽省,10122060801A,The Red Army Central Independent No.2 Division Headquarters Site,hongjunzhongyangdulidiershisilingbujiuzhi,红军中央独立第二师司令部旧址
+286425,286426,安徽省,10122060802A,Sikong Mountain Scenic Spot,sikongshanfengjingqu,司空山风景区
+286426,286427,安徽省,10122060901A,Tongcheng Wen Temple,tongchengxianwenmiao,桐城县文庙
+286427,286428,安徽省,10122060401A,Tianlongguan,tianlongguan,天龙关
+286428,286429,安徽省,10122060402A,Tianzhu Mountain Grand Canyon North Entrance,tianzhushandaxiagubeimenrukou,天柱山大峡谷北门入口
+286429,286430,安徽省,10122060403A,Wanguang Garden,wanguangyuan,皖光苑
+286430,286431,安徽省,10122060601A,Baiya Camp,baiyazhai,白崖寨
+286431,286432,安徽省,10122060604A,Xiaogu Mountain Scenic Spot,xiaogushanfengjingqu,小孤山风景区
+286432,286433,福建省,10123010101A,Chuanzheng Culture Theme Park,chuanzhengwenhuajingqu,船政文化景区
+286433,286434,福建省,10123010102A,The first Mountain Scenic Spot,diyishanjingqu,第一山景区
+286434,286435,福建省,10123010103A,Fuzhou National Forest Park,fuzhouguojiasenlingongyuan,福州国家森林公园
+286435,286436,福建省,10123010104A,Fuzhou National Forest Park South Gate,fuzhouguojiasenlingongyuannanmen,福州国家森林公园南门
+286436,286437,福建省,10123010105A,Fuzhou Three Lanes and Seven Alleys,fuzhousanfangqixiang,福州三坊七巷
+286437,286438,福建省,10123010106A,Gu Mountain,gushan,鼓山
+286438,286439,福建省,10123010107A,Yu Mountain Scenic Spot,yushanfengjingqu,于山风景区
+286439,286440,福建省,10123010702A,Qingyun Mountain Scenic Spot,qingyunshanjingqu,青云山景区
+286440,286441,福建省,10123011101A,Shizhu Mountain Tourism Spot,shizhushanfengjinglvyouqu,石竹山风景旅游区
+286441,286442,福建省,10123010701A,Le Mountain red Cliff Scenic Spot,lefengchibijingqu,乐峰赤壁景区
+286442,286443,福建省,10123011001A,Changle Tourism Hall,changlelvyouguan,长乐旅游馆
+286443,286444,福建省,10123011002A,Fujian Bingxin Literature Museum,fujianshengbingxinwenxueguan,福建省冰心文学馆
+286444,286445,福建省,10123030901A,Baishui Ocean Scenic Spot,baishuiyangfengjingqu,白水洋风景区
+286445,286446,福建省,10123030902A,Yuanyang Stream,yuanyangxi,鸳鸯溪
+286446,286447,福建省,10123030801A,Taimu Mountain,tailaoshan,太姥山
+286447,286448,河北省,10109011301A,China Zhaozhou Bridge,zhongguozhaozhouqiao,中国赵州桥
+286448,286449,河北省,10109011101A,White Deer Hot Spring,bailuwenquan,白鹿温泉
+286449,286450,河北省,10109011102A,Oriental Turtle Park,dongfangjuguiyuan,东方巨龟苑
+286450,286451,河北省,10109011103A,Heishan Grand Canyon Scenic Spot,heishandaxiagujingqu,黑山大峡谷景区
+286451,286452,河北省,10109011104A,Wuwushui Ecological Scenic Spot,huhushuishengtaifengjingqu,淴淴水生态风景区
+286452,286453,河北省,10109011105A,Tenglong Mountain,tenglongshan,藤龙山
+286453,286454,河北省,10109011106A,Tiangui Mountain,tianguishan,天桂山
+286454,286455,河北省,10109090101A,Qiannanyu Ecological Tourism Spot,qiannanyushengtailvyouqu,前南峪生态旅游区
+286455,286456,河北省,10109090102A,Xingtai Gorges Geopark Park Grand Canyon Spot,xingtaixiaguqundizhigongyuandaxiagujingqu,邢台峡谷群地质公园大峡谷景区
+286456,286457,河北省,10109090201A,Kongshan White Cloud Cave,kongshanbaiyundong,崆山白云洞
+286457,286458,河北省,10109090202A,Xingtai Fengle Garden,xingtaifengleyuan,邢台丰乐园
+286458,286459,河北省,10109091701A,Qinwang Lake Tourism Spot,qinwanghulvyouqu,秦王湖旅游区
+286459,286460,山西省,10110060301A,Mang Rive Scenic Spot,manghejingqu,蟒河景区
+286460,286461,山西省,10110060601A,Jue Mountain Scenic Spot,jueshanjingqu,珏山景区
+286461,286462,山西省,10110060602A,Qinglian Temple,qingliansi,青莲寺
+286462,286463,山西省,10110060401A,Lingchuan Wangmang Tomb Scenic Spot,lingchuanwangmanglingjingqu,陵川王莽岭景区
+286463,286464,内蒙古自治区,10108050401A,Tongliao Daqing Ditch National Reserve Spot,tongliaodaqinggouguojiajiziranbaohuqu,通辽大青沟国家级自然保护区
+286464,286465,内蒙古自治区,10108041101A,Gegentala Grassland Tourism Spot,gegentalacaoyuanlvyouzhongxin,格根塔拉草原旅游中心
+286465,286466,内蒙古自治区,10108040701A,Daihai Tourism Spot,daihailvyouzhongxin,岱海旅游中心
+286466,286467,陕西省,10111090701A,Famen Templev Tourism Spot,famensilvyouqu,法门寺旅游区
+286467,286468,陕西省,10111090702A,Famen Temple Cultural Scenic Spot,famensiwenhuajingqu,法门寺文化景区
+286468,286469,陕西省,10111090501A,Zhougong Temple,zhougongmiao,周公庙
+286469,286470,陕西省,10111090801A,Taibai Mountain National Forest Park,taibaishanguojiasenlingongyuan,太白山国家森林公园
+286470,286471,陕西省,10111090101A,Tang Qin Mausoleum,datangqinwangling,大唐秦王陵
+286471,286472,陕西省,10111090102A,Diaoyu Island Palces of Interest,diaoyutaifengjingmingshengqu,钓鱼台风景名胜区
+286472,286473,陕西省,10111091001A,Jialing River Source Scenic Spot,jialingjiangyuantoujingqu,嘉陵江源头景区
+286473,286474,陕西省,10111091101A,Longmen Cave Forest Park,longmendongsenlingongyuan,龙门洞森林公园
+286474,286475,陕西省,10111040101A,Red Stone Valley Geological Park,hongshixiashengtaigongyuan,红石峡生态公园
+286475,286476,陕西省,10111040102A,Zhenbeitai,zhenbeitai,镇北台
+286476,286477,陕西省,10111040301A,Erlang Mountain,erlangshan,二郎山
+286477,286478,甘肃省,10116130201A,Faquan Temple,faquansi,法泉寺
+286478,286479,甘肃省,10116090104A,Maiji Mountain Scenic Spot,maijishanfengjingqu,麦积山风景区
+286479,286480,甘肃省,10116090101A,Fuxi temple,fuximiao,伏羲庙
+286480,286481,甘肃省,10116090102A,Nanguo Temple,nanguosi,南郭寺
+286481,286482,甘肃省,10116090103A,Yuquan Temple,yuquanguan,玉泉观
+286482,286483,甘肃省,10116090601A,Shuilian Cave,shuiliandong,水帘洞
+286483,286484,甘肃省,10116090501A,Daxiang Mountain,daxiangshan,大像山
+286484,286485,甘肃省,10116110501A,Songming Cliff Scenic Spot,songmingyanfengjingmingshengqu,松鸣岩风景名胜区
+286485,286486,青海省,10115010402A,Ta'er Monastery,taersi,塔尔寺
+286486,286487,青海省,10115010401A,Zang Cultural Pavillion,zangwenhuaguan,藏文化馆
+286487,286488,青海省,10115010103A,Ma Bufang Residence,mabufanggongguan,马步芳公馆
+286488,286489,青海省,10115010104A,Tibetan Plateau Wildlife Zoo,qingzanggaoyuanyeshengdongwuyuan,青藏高原野生动物园
+286489,286490,青海省,10115010105A,Qinghai Museum,qinghaishengbowuguan,青海省博物馆
+286490,286491,青海省,10115010106A,Tibetan Medicine Museum of China,zhongguozangyiyaowenhuabowuguan,中国藏医药文化博物馆
+286491,286492,青海省,10115010201A,Laoye Mountain,laoyeshan,老爷山
+286492,286493,青海省,10115020401A,Rainbow Village,caihongbuluo,彩虹部落
+286493,286494,青海省,10115020402A,Cooperation Tuzu Homeland Park Tourism Spot,huzhutuzugutuyuanlvyouqu,互助土族故土园旅游区
+286494,286495,青海省,10115090101A,Kunlun Culeure Tourism Spot,kunlunwenhualvyoujingqu,昆仑文化旅游景区
+286495,286496,青海省,10115010301A,Zanpu Linka,zanpulinka,赞普林卡
+286496,286497,新疆维吾尔自治区,10113050402A,Kumtag Desert Scenic Spot,kumutageshamo,库木塔格沙漠
+286497,286498,新疆维吾尔自治区,10113050105A,Grape ditch Amusement Park,putaogouyouleyuan,葡萄沟游乐园
+286498,286499,新疆维吾尔自治区,10113050401A,Tuyu ditch Scenic Spot,tuyugoujingqu,吐峪沟景区
+286499,286500,新疆维吾尔自治区,10113050101A,Huoyan Mountain Scenic Spot,huoyanshanjingqu,火焰山景区
+286500,286501,新疆维吾尔自治区,10113050102A,Kanerjing Paradise,kanerjingleyuan,坎儿井乐园
+286501,286502,新疆维吾尔自治区,10113050103A,Desert Plants Garden,shamozhiwufengqingyuan,沙漠植物风情园
+286502,286503,新疆维吾尔自治区,10113050104A,Xinjiang Desert Soil Art Museum,xinjiangdamotuyiguan,新疆大漠土艺馆
+286503,286504,新疆维吾尔自治区,10113040102A,Du's Tourism Town,dushilvyoucun,杜氏旅游村
+286504,286505,新疆维吾尔自治区,10113040601A,Jiang BuLake Scenic Spot,jiangbulakejingqu,江布拉克景区
+286505,286506,新疆维吾尔自治区,10113040602A,Yiwan Spring Scenic Spot,yiwanquanfengjingqu,一万泉风景区
+286506,286507,新疆维吾尔自治区,10113040701A,Tuolingmengpo Desert Ecological Scenic Spot,tuolingmengposhamoshengtaijingqu,驼铃梦坡沙漠生态景区
+286507,286508,新疆维吾尔自治区,10113040101A,Heima Ecological Technology Park,heimashengtaikejiyuan,黑马生态科技园
+286508,286509,新疆维吾尔自治区,10113040201A,Hutubi Century Garden West gate,hutubixianshijiyuanximen,呼图壁县世纪园西门
+286509,286510,新疆维吾尔自治区,10113040202A,Century Garden,shijiyuan,世纪园
+286510,286511,四川省,10127020401A,Desala Ecology Tourism Spot,gesalashengtailvyouqu,格萨拉生态旅游区
+286511,286512,四川省,10127020301A,Longtan Karst Cave,longtanrongdong,龙潭溶洞
+286512,286513,四川省,10127020101A,Golden Beach International Yangtze River Rafting Base,jinshatanguojichangjiangpiaoliujidi,金沙滩国际长江漂流基地
+286513,286514,四川省,10127050501A,Zhu De's Hometown Linlang Mountain Scenic Spot,zhudegulilinlangshanjingqu,朱德故里琳琅山景区
+286514,286515,四川省,10127050702A,Langzhong Ancient City,langzhonggucheng,阆中古城
+286515,286516,四川省,10127050703A,Tiangong Hall,tiangongyuan,天宫院
+286516,286517,四川省,10127050103A,Lingyun Mountain Scenic Spot,lingyunshanjingqu,凌云山景区
+286517,286518,四川省,10127050104A,Nanchong West mountain scenic Spot South Gate,nanchongxishanfengjingqunanmen,南充西山风景区南门
+286518,286519,四川省,10127050105A,West Mountain Scenic Spot,xishanfengjingqu,西山风景区
+286519,286520,四川省,10127050201A,Shengzhong Lake Scenic Spot,shengzhonghufengjingqu,升钟湖风景区
+286520,286521,四川省,10127050701A,Langzhong Ancient City Scenic Spot Jinping Mountain,langzhongguchengjingqujinpingshan,阆中古城景区锦屏山
+286521,286522,四川省,10127050101A,Luo Ruiqing Hometown,luoruiqingguju,罗瑞卿故居
+286522,286523,四川省,10127050102A,Zhanglan Memorial Hall,zhanglanjinianguan,张澜纪念馆
+286523,286524,四川省,10127180301A,Luding Conch Ditch Clacier Forest Park,ludinghailuogoubingchuansenlingongyuan,泸定海螺沟冰川森林公园
+286524,286525,四川省,10127180201A,Kangding Love Song Scenic Spot,kangdingqinggefengjingqu,康定情歌风景区
+286525,286526,四川省,10127180202A,Mugecuo,mugecuo,木格措
+286526,286527,四川省,10127181701A,Daocheng Yading,daochengyading,稻城亚丁
+286527,286528,云南省,10129150701A,Nandian Xuanfu Government Office,nandianxuanfusishu,南甸宣抚司署
+286528,286529,云南省,10129150601A,Ruili One Tree Forest,ruilidushuchenglin,瑞丽独树成林
+286529,286530,贵州省,10126050301A,Xiawuyang River Scenic Spot,xiawuyanghejingqu,下舞阳河景区
+286530,286531,贵州省,10126051201A,West River Qianhu Miao Camp Tourism Spot,xijiangqianhumiaozhaijingqu,西江千户苗寨景区
+286531,286532,吉林省,10106040502A,Muqing Valley Tourism Scenic Spot,muqinggulvyoufengjingqu,牧情谷旅游风景区
+286532,286533,吉林省,10106040503A,Yitong  Manzu Museum,yitongmanzubowuguan,伊通满族博物馆
+286533,286534,吉林省,10106040301A,Yehe Nara Ancient City,yehenalacheng,叶赫那拉城
+286534,286535,吉林省,10106040501A,Yitong Nanshan Baoyong Temple,yitongxiannanshanbaoyongsi,伊通县南山保雍寺
+286535,286536,辽宁省,10107050101A,Benxi Water Cave,benxishuidong,本溪水洞
+286536,286537,辽宁省,10107050102A,Guanmen Mountain National Forest park,guanmenshanguojiasenlingongyuan,关门山国家森林公园
+286537,286538,辽宁省,10107050402A,Daya River Rafting Spot,dayahepiaoliu,大雅河漂流
+286538,286539,辽宁省,10107050403A,Wunv Mountain Mountain City Scenic Spot,wunvshanshanchengfengjingqu,五女山山城风景区
+286539,286540,辽宁省,10107050401A,Wangtian Cave,wangtiandong,望天洞
+286540,286541,辽宁省,10107040301A,Honghe Valley Rafting Spot,honghexiagupiaoliu,红河峡谷漂流
+286541,286542,辽宁省,10107040201A,Hemu National Forest Park,hemuguojiasenlingongyuan,和睦国家森林公园
+286542,286543,辽宁省,10107040202A,Hetu ala City,hetualacheng,赫图阿拉城
+286543,286544,辽宁省,10107040203A,houshi National Forest Park,houshiguojiasenlingongyuan,猴石国家森林公园
+286544,286545,辽宁省,10107040101A,Fushun War Criminals Management Center site,fushunzhanfanguanlisuojiuzhi,抚顺战犯管理所旧址
+286545,286546,辽宁省,10107040102A,Saerhu Palces of Interest,saerhufengjingmingshengqu,萨尔浒风景名胜区
+286546,286547,辽宁省,10107040103A,Yuanshuai Forest,yuanshuailin,元帅林
+286547,286548,辽宁省,10107030102A,Anshan Yufo Temple,anshanyufoyuan,鞍山玉佛苑
+286548,286549,辽宁省,10107030103A,Qianshan Places of Interest,qianshanfengjingmingshengqu,千山风景名胜区
+286549,286550,辽宁省,10107030104A,Yufo Mountain Scenic Spot,yufoshanfengjingqu,玉佛山风景区
+286550,286551,辽宁省,10107030105A,Yufo Temple,yufoyuan,玉佛苑
+286551,286552,辽宁省,10107030101A,Tanggangzi Hot Spring Tourism Resort,tanggangziwenquanlvyoudujiaqu,汤岗子温泉旅游度假区
+286552,286553,内蒙古自治区,10108070303A,Xiangsha bay,xiangshawan,响沙湾
+286553,286554,内蒙古自治区,10108071102A,Genghis Khan's Mausoleum Toursit Spot,chengjisihanlinglvyouqu,成吉思汗陵旅游区
+286554,286555,内蒙古自治区,10108010401A,Mengniu Industry Tourism Spot,mengniugongyelvyoujingqu,蒙牛工业旅游景区
+286555,286556,内蒙古自治区,10108010103A,Zhaojun Museum,zhaojunbowuyuan,昭君博物院
+286556,286557,内蒙古自治区,10108020104A,North Weapon City,beifangbingqicheng,北方兵器城
+286557,286558,内蒙古自治区,10108020105A,Nanhai Wetland Scenic Spot,nanhaishidijingqu,南海湿地景区
+286558,286559,内蒙古自治区,10108020106A,Wudang Lamasery,wudangzhao,五当召
+286559,286560,内蒙古自治区,10108020101A,Meiligeng Natural Geological Scenic Spot,meiligengziranshengtaifengjingqu,梅力更自然生态风景区
+286560,286561,内蒙古自治区,10108020102A,Shimen Scenic Spot,shimenfengjingqu,石门风景区
+286561,286562,内蒙古自治区,10108020103A,New Century youth Geological Park,xinshijiqingnianshengtaiyuan,新世纪青年生态园
+286562,286563,内蒙古自治区,10108020401A,Maitreya Lamasery,meidaizhao,美岱召
+286563,286564,内蒙古自治区,10108010101A,Hohhot Wusutu National Forest Park,huhehaotewusutuguojiasenlingongyuan,呼和浩特乌素图国家森林公园
+286564,286565,内蒙古自治区,10108010102A,Wulanfu Mermorial Hall,wulanfutongzhijinianguan,乌兰夫同志纪念馆
+286565,286566,内蒙古自治区,10108010201A,Hasu Sea,hasuhai,哈素海
+286566,286567,山西省,10110050701A,Eight Route Army Taihang Mermorial Hall,balujuntaihangjinianguan,八路军太行纪念馆
+286567,286568,山西省,10110050702A,Taihang Dragon Cave,taihanglongdong,太行龙洞
+286568,286569,山西省,10110050601A,Tianji Mountain,tianjishan,天脊山
+286569,286570,山西省,10110050401A,Lvye Rafting Spot,lvyepiaoliu,绿野漂流
+286570,286571,山西省,10110050402A,Taihang water town Rafting spot,taihangshuixiangdiyipiao,太行水乡第一漂
+286571,286572,山西省,10110051101A,Taihangshan Grand Canyon National Forest Park Wangmang Canyon Spot,taihangshandaxiaguguojiasenlingongyuanwangmangxiafengjingqugelaoling,太行山大峡谷国家森林公园王莽峡风景区阁老陵
+286572,286573,山西省,10110030201A,Zang Mountain Tourism Scenic Spot,zangshanlvyoufengjingqu,藏山旅游风景区
+286573,286574,山西省,10110030101A,Xiaohe Ancient Village Pingmei Scenic Spot,xiaohegucunpingmeijingqu,小河古村评梅景区
+286574,286575,河北省,10109060101A,Langfang Cultural Park South Gate,langfangshiwenhuagongyuannanmen,廊坊市文化公园南门
+286575,286576,河北省,10109060102A,Nature Park,zirangongyuan,自然公园
+286576,286577,河北省,10109060402A,City One,diyicheng,第一城
+286577,286578,河北省,10109060801A,Mingtang Hot Spring Resort,mingtangwenquandujiacun,茗汤温泉度假村
+286578,286579,河北省,10109060401A,International Expo Center,guojihuizhanzhongxin,国际会展中心
+286579,286580,河北省,10109030503A,Gushui Fuyuan,gushuifuyuan,沽水福源
+286580,286581,河北省,10109030504A,Saiwai Manor,saiwaizhuangyuan,塞外庄园
+286581,286582,河北省,10109030302A,Zhongdu Original Grassland Holiday Resort,zhongduyuanshicaoyuandujiacun,中都原始草原度假村
+286582,286583,河北省,10109030104A,Dajingmen Scenic Spot,dajingmenjingqu,大境门景区
+286583,286584,河北省,10109031402A,Wanlong Ski Resort,wanlonghuaxuechang,万龙滑雪场
+286584,286585,河北省,10109031101A,Huanglong Mountain resort Scenic Spot,huanglongshanzhuanglvyoufengjingqu,黄龙山庄旅游风景区
+286585,286586,河北省,10109030502A,Swan Lake Holiday Resort,tianehudujiacun,天鹅湖度假村
+286586,286587,河北省,10109030301A,Anguli Grassland Holiday Resort,angulicaoyuandujiacun,安固里草原度假村
+286587,286588,河北省,10109030101A,Zhangjiakou Jiming Mountain Scenic Spot,zhangjiakoujimingshanfengjingqu,张家口鸡鸣山风景区
+286588,286589,河北省,10109030103A,Anjia Ditch Ecology Spot,anjiagoushengtaiqu,安家沟生态区
+286589,286590,河北省,10109031401A,Cuiyun Mountain Forest Resort,cuiyunshansenlindujiajingqu,翠云山森林度假景区
+286590,286591,河北省,10109020301A,Jinchaji Border Area Revolutionary Memorial Hall,jinchajibianqugemingjinianguan,晋察冀边区革命纪念馆
+286591,286592,河北省,10109020302A,Tianshengqiao National Geological Park,tianshengqiaoguojiadizhigongyuan,天生桥国家地质公园
+286592,286593,河北省,10109020303A,Tianshengqiao Waterfall Natural Scenic Spot,tianshengqiaopubuqunziranfengjingqu,天生桥瀑布群自然风景区
+286593,286594,河北省,10109020102A,Baoding Province Governor office Museum,baodingzhilizongdushubowuguan,保定直隶总督署博物馆
+286594,286595,河北省,10109020201A,Mancheng Han DynastyTombs,manchenghanmu,满城汉墓
+286595,286596,河北省,10109021201A,Langya Mountain Scenic Attraction,langyashanjingqu,狼牙山景区
+286596,286597,河北省,10109021202A,Qingxi Mausoleum,qingxiling,清西陵
+286597,286598,河北省,10109020903A,Laiyuan Baishi Mounatin National Geopark,laiyuanbaishishanguojiadizhigongyuan,涞源白石山国家地质公园
+286598,286599,河北省,10109022201A,Yesanpo Baicao Beach Scenic Spot,yesanpobaicaopanjingqu,野三坡白草畔景区
+286599,286600,河北省,10109022202A,Yesanpo Baili Valley Scenic Spot,yesanpobailixiajingqu,野三坡百里峡景区
+286600,286601,河北省,10109100101A,Congtai PArk,congtaigongyuan,丛台公园
+286601,286602,河北省,10109100102A,Zhaoyuan Park,zhaoyuangongyuan,赵苑公园
+286602,286603,河北省,10109100202A,Xiangtang Mountain Scenic Spot,xiangtangshanfengjingqu,响堂山风景区
+286603,286604,河北省,10109100601A,Nuwa Palace Scenic Spot,wahuanggongjingqu,娲皇宫景区
+286604,286605,河北省,10109100602A,129th Division Headquarters Former Site,yierjiushisilingbujiuzhi,一二九师司令部旧址
+286605,286606,河北省,10109101001A,Bianque Temple,pianquemiao,扁鹊庙
+286606,286607,河北省,10109101603A,Chaoyang Ditch Scenic Spot,chaoyanggoufengjingqu,朝阳沟风景区
+286607,286608,河北省,10109101604A,East Mountain Culture Park,dongshanwenhuagongyuan,东山文化公园
+286608,286609,河北省,10109101605A,Jingniang Lake Scenic Spot,jingnianghujingqu,京娘湖景区
+286609,286610,河北省,10109100201A,Yuanbao Mountain Scenic Spot,yuanbaoshanfengjingqu,元宝山风景区
+286610,286611,河北省,10109100701A,China Cizhou Kiln Museum,zhongguocizhouyaobowuguan,中国磁州窑博物馆
+286611,286612,河北省,10109101601A,Longevity Village Tourism Scenic Spot,changshoucunlvyoufengjingqu,长寿村旅游风景区
+286612,286613,河北省,10109110401A,Beidaihe Jifa tourism Garden,beidaihejifaguanguangyuan,北戴河集发观光园
+286613,286614,河北省,10109110402A,Nandai River Internatioal Entertainment Center,nandaiheguojiyulezhongxin,南戴河国际娱乐中心
+286614,286615,河北省,10109110302A,Huaxia Winery,huaxiajiuzhuang,华夏酒庄
+286615,286616,河北省,10109110102A,Dove Nest Park,geziwogongyuan,鸽子窝公园
+286616,286617,河北省,10109110103A,Ledao Ocean Park,ledaohaiyanggongyuan,乐岛海洋公园
+286617,286618,河北省,10109110104A,The First Emperor Qin dynasty sailed for Gods' Blessing Startpoint Scenic Spot,qinhuangqiuxianruhaichu,秦皇求仙入海处
+286618,286619,河北省,10109110105A,Wanshou Moutain Scenic Spot,wanshoushanjingqu,万寿山景区
+286619,286620,河北省,10109110106A,Nw aohai water World,xinaohaidishijie,新澳海底世界
+286620,286621,河北省,10109110107A,Yansai Lake,yansaihu,燕塞湖
+286621,286622,河北省,10109110108A,Wildlife park,yeshengdongwuyuan,野生动物园
+286622,286623,福建省,10123060302A,Fujian Earth halls (Nanjing) Scenic Spot,fujiantulou(nanjing)jingqu,福建土楼(南靖)景区
+286623,286624,福建省,10123060303A,Hekeng Earth halls Spot,hekengtulouqun,河坑土楼群
+286624,286625,福建省,10123060304A,Nan'ou Earth halls Spot,nanoutulouqun,南欧土楼群
+286625,286626,福建省,10123060305A,Taxia Earth halls Spot,taxiatulouqun,塔下土楼群
+286626,286627,福建省,10123060306A,Tianluokeng Earth halls,tianluokengtulouqun,田螺坑土楼群
+286627,286628,福建省,10123060802A,jintangwan,jintangwannanzhongguo·haishuiwenquandujiadi,金汤湾南中国·海水温泉度假地
+286628,286629,福建省,10123061001A,Dadi Earth halls,daditulouqun,大地土楼群
+286629,286630,福建省,10123060101A,Yundong Rock Scenic Spot,yundongyanfengjingqu,云洞岩风景区
+286630,286631,福建省,10123060301A,Fujian Nanjing Earth halls Museum,fujianshengnanjingtuloubowuguan,福建省南靖土楼博物馆
+286631,286632,福建省,10123060801A,East Mountain Fengdong Rock Scenic Spot,dongshanfengdongshijingqu,东山风动石景区
+286632,286633,福建省,10123060401A,Pinghe Sanping Scenic Spot,pinghexiansanpingfengjingqu,平和县三平风景区
+286633,286634,福建省,10123060601A,Coastal Volcano National Geological Scenic Spot,binhaihuoshanziranshengtaifengjinglvyouqu,滨海火山自然生态风景旅游区
+286634,286635,福建省,10123090501A,Wuyi Mountain Scenic Spot,wuyishanfengjingqu,武夷山风景区
+286635,286636,福建省,10123090301A,Dajue Mountain rafting Spot,dajueshanpiaoliu,大觉山漂流
+286636,286637,福建省,10123090201A,Huayang Mountain Scenic Spot,huayangshanfengjingqu,华阳山风景区
+286637,286638,福建省,10123090101A,Xiyuan Grand Canyon,xiyuandaxiagu,溪源大峡谷
+286638,286639,福建省,10123070601A,Gaobei Earth halls Spot,gaobeitulouqun,高北土楼群
+286639,286640,福建省,10123070602A,Hongkeng Earth halls Spot,hongkengtulouqun,洪坑土楼群
+286640,286641,福建省,10123070201A,Jiangzhou Historical Ancient City,tingzhoulishiwenhuamingcheng,汀州历史文化名城
+286641,286642,福建省,10123070301A,Liancheng Guanzhi Mountain Scenic Spot,lianchengguanzhishanfengjingqu,连城冠豸山风景区
+286642,286643,福建省,10123070501A,Gutian Congress Site,gutianhuiyihuizhi,古田会议会址
+286643,286644,福建省,10123070101A,Longkong Cave,longkongdong,龙硿洞
+286644,286645,福建省,10123070701A,Overwater Tea Village of Tiantai National Forest Park ---Jiupeng Stream,tiantaiguojiasenlingongyuanshuishangchaxiangjiupengxi,天台国家森林公园水上茶乡九鹏溪
+286645,286646,广东省,10128080006A,Xiqiao Mountain,xiqiaoshan,西樵山
+286646,286647,广东省,10128080001A,Changlu Tourism Resort,changluxiuxiandujianongzhuang,长鹿休闲度假农庄
+286647,286648,广东省,10128080002A,Nanfeng Ancient Kiln,nanfengguzao,南风古灶
+286648,286649,广东省,10128080003A,Qinghui Garden,qinghuiyuan,清晖园
+286649,286650,广东省,10128080004A,Sanshui Lotus World,sanshuihehuashijie,三水荷花世界
+286650,286651,广东省,10128080005A,Xiqiao Mountain National Forest Park,xiqiaoshanguojiasenlingongyuan,西樵山国家森林公园
+286651,286652,广东省,10128200101A,China No.1 Beach,zhongguodiyitan,中国第一滩
+286652,286653,广东省,10128200501A,West River Hot Spring Hiliday Resort,xijiangwenquandujiacun,西江温泉度假邨
+286653,286654,广东省,10128090101A,Qixing Rock Scenic Spot,qixingyanfengjingqu,七星岩风景区
+286654,286655,广东省,10128090102A,Zhaoqing Star Lake Palces of Interest,zhaoqingxinghufengjingmingshengqu,肇庆星湖风景名胜区
+286655,286656,重庆市,10104010003A,Guanyin Bridge,guanyinqiao,观音桥
+286656,286657,重庆市,10104010004A,Chongqing Science&Technology Museum,chongqingkejiguan,重庆科技馆
+286657,286658,重庆市,10104010009A,Beidiyi Garden  Hot Spring Tourism Resort,beidiyiyuanwenquanlvyoudujiaqu,贝迪颐园温泉旅游度假区
+286658,286659,重庆市,10104010010A,Huayan Scenic Spot,huayanfengjingqu,华岩风景区
+286659,286660,重庆市,10104010011A,Chongqing Zoo,chongqingdongwuyuan,重庆动物园
+286660,286661,重庆市,10104010012A,Chongqing Hailan Yuntian Hot Spring Tourism Resort,chongqinghailanyuntianwenquandujiaqu,重庆海兰云天温泉度假区
+286661,286662,重庆市,10104010013A,Caribbean Seawater Park,jialebihaishuishijie,加勒比海水世界
+286662,286663,重庆市,10104010014A,Chongqing South Mountain Botanical Park,chongqingnanshanzhiwuyuan,重庆南山植物园
+286663,286664,重庆市,10104010015A,Chongqing South Moutain Botanical Park,chongqingshinanshanzhiwuyuan,重庆市南山植物园
+286664,286665,重庆市,10104010021A,Ciqikou,ciqikou,磁器口
+286665,286666,重庆市,10104010022A,Gele Mountain Forest Park,geleshansenlingongyuan,歌乐山森林公园
+286666,286667,重庆市,10104010023A,Chongqing Gele Mountain Martyrs Cemetery,chongqinggeleshanlieshilingyuan,重庆歌乐山烈士陵园
+286667,286668,四川省,10127011102A,Dujiang Weir Scenic Spot,dujiangyanjingqu,都江堰景区
+286668,286669,四川省,10127011103A,Qingcheng Mountain Tourism Spot,qingchengshanlvyouqu,青城山旅游区
+286669,286670,四川省,10127010105A,Baoguang Gui Lake Cultural Tourism Spot,baoguangguihuwenhualvyouqu,宝光桂湖文化旅游区
+286670,286671,四川省,10127010106A,Chengdu  Panda Breeding Reseach Base,chengdudaxiongmaofanyuyanjiujidi,成都大熊猫繁育研究基地
+286671,286672,四川省,10127010107A,Chengdu Wuhou Temple Museum South Gate,chengduwuhoucibowuguannanmen,成都武侯祠博物馆南门
+286672,286673,四川省,10127010108A,Dufu Former Residence,dufucaotang,杜甫草堂
+286673,286674,四川省,10127010109A,Gui Lake Park South Gate,guihugongyuannanmen,桂湖公园南门
+286674,286675,四川省,10127010110A,Beauty Paralise,guosetianxiangleyuan,国色天乡乐园
+286675,286676,四川省,10127010111A,Happy Valley,huanlegu,欢乐谷
+286676,286677,四川省,10127010112A,Jinsha Site Museum,jinshayizhibowuguan,金沙遗址博物馆
+286677,286678,四川省,10127010113A,Luodai Ancient Town,luodaiguzhen,洛带古镇
+286678,286679,四川省,10127010114A,Sansheng Flower Village,sanshenghuaxiang,三圣花乡
+286679,286680,重庆市,10104060002A,Black Mountain Valley Natural Tourism Spot North Gate,heishangushengtailvyouqubeimen,黑山谷生态旅游区北门
+286680,286681,重庆市,10104060003A,Chongqing Wansheng Black Mountain Valley Natural Toutism Spot,chongqingwanshengheishangushengtailvyouqu,重庆万盛黑山谷生态旅游区
+286681,286682,重庆市,10104200001A,Wu Mountain little Three Gorge,wushanxiaosanxia,巫山小三峡
+286682,286683,重庆市,10104200002A,Mini Three Gorge,xiaoxiaosanxia,小小三峡
+286683,286684,重庆市,10104260002A,Chongqing Dazu Rock Carvings Art Museum,chongqingdazushikeyishubowuguan,重庆大足石刻艺术博物馆
+286684,286685,重庆市,10104310002A,Tiansheng Three Bridges,tianshengsanqiao,天生三桥
+286685,286686,重庆市,10104310003A,Xiannv Mountain National Forest Park,xiannvshanguojiasenlingongyuan,仙女山国家森林公园
+286686,286687,重庆市,10104310004A,Chongqing Wulong Lotus Hole,chongqingwulongfurongdong,重庆武隆芙蓉洞
+286687,286688,重庆市,10104340003A,Peach Garden,taohuayuan,桃花源
+286688,286689,河南省,10118071101A,Huazhou College,huazhoushuyuan,花洲书院
+286689,286690,湖北省,10120090703A,Yuquan Temple,yuquansi,玉泉寺
+286690,286691,湖北省,10120090101A,Yichang Lover Spring Tourism Spot,yichangshiqingrenquanlvyouqu,宜昌市情人泉旅游区
+286691,286692,湖北省,10120090102A,Yichang Savage Valley Tourism Spot,yichangshiyerengulvyouqu,宜昌市野人谷旅游区
+286692,286693,湖北省,10120090103A,Chinese Sturfeon Garden,zhonghuaxunyuan,中华鲟园
+286693,286694,浙江省,10121010101A,Ling Mountain Scenic Spot,lingshanfengjingqu,灵山风景区
+286694,286695,浙江省,10121010108A,Xiang Lake Tourism Resort,xianghulvyoudujiaqu,湘湖旅游度假区
+286695,286696,浙江省,10121010301A,Yunchui Tongtian River,chuiyuntongtianhe,垂云通天河
+286696,286697,福建省,10123050201A,Anxi Feng Mountain Scenic Spot,anxifengshanfengjinglvyouqu,安溪凤山风景旅游区
+286697,286698,福建省,10123050202A,Huqiu hong'en Rock,huqiuhongenyan,虎邱洪恩岩
+286698,286699,新疆维吾尔自治区,10113010101A,People's Park North Gate,renmingongyuanbeimen,人民公园北门
+286699,286700,新疆维吾尔自治区,10113010102A,Urumqi Children's Park North Gate,wulumuqiertonggongyuanbeimen,乌鲁木齐儿童公园北门
+286700,286701,新疆维吾尔自治区,10113010103A,Urumqi Botanical Garden,wulumuqishizhiwuyuan,乌鲁木齐市植物园
+286701,286702,新疆维吾尔自治区,10113010104A,Yamalike Mountain,yamalikeshan,雅玛里克山
+286702,286703,河北省,10109110301A,China International Huasha Activity Center,zhongguoguojihuashahuodongzhongxin,中国国际滑沙活动中心
+286703,286704,河北省,10109110101A,Fancy hall Park,guailoujiyuan,怪楼奇园
+286704,286705,河北省,10109110201A,Zu Mountain Scenic Spot,zushanfengjingqu,祖山风景区
+286705,286706,江苏省,10119080501A,Pizhou Museum,pizhoubowuguan,邳州博物馆
+286706,286707,江苏省,10119080201A,Wuming Mountain Park,wumingshangongyuan,无名山公园
+286707,286708,江苏省,10119080105A,Xuzhou Huancheng Forest park,xuzhouhuanchengsenlingongyuan,徐州环城森林公园
+286708,286709,陕西省,10111010401A,Shuilu Nunnery,shuiluan,水陆庵
+286709,286710,陕西省,10111010101A,Epang Palace Site,Epanggongyizhi,阿房宫遗址
+286710,286711,陕西省,10111010102A,Changning Palace Holioday villa,changninggongxiuxianshanzhuang,常宁宫休闲山庄
+286711,286712,陕西省,10111010103A,Daxingshan Temple,daxingshansi,大兴善寺
+286712,286713,陕西省,10111010104A,Fengyu hacienda,fengyuzhuangyuan,沣峪荘园
+286713,286714,陕西省,10111010105A,Guangren Temple,guangrensi,广仁寺
+286714,286715,陕西省,10111010106A,Lintong Museum,lintongbowuguan,临潼博物馆
+286715,286716,陕西省,10111010107A,Shanxi Natutal History Museum,shanxiziranbowuguan,陕西自然博物馆
+286716,286717,江苏省,10119010301A,Gaochun Ancient Street West Gate,gaochunlaojieximen,高淳老街西门
+286717,286718,江苏省,10119010201A,Dajin Mountain Scenic Spot,dajinshanfengjingqu,大金山风景区
+286718,286719,江苏省,10119010202A,Fujiabian Agriculture Science&Technology Garden,fujiabiannongyekejiyuan,傅家边农业科技园
+286719,286720,江苏省,10119010203A,Nanjing Tianshengqiao Scenic Spot,nanjingtianshengqiaofengjingmingshengqu,南京天生桥风景名胜区
+286720,286721,江苏省,10119010204A,Wuxiang Mountain Tourism Resort,wuxiangshanlvyouxiuxiandujiaqu,无想山旅游休闲度假区
+286721,286722,江苏省,10119010101A,Ganquan Lack Tourism Resort,ganquanhulvyoudujiaqu,甘泉湖旅游度假区
+286722,286723,江苏省,10119010102A,General Mountain Scenic Spot,jiangjunshanlvyoufengjingqu,将军山旅游风景区
+286723,286724,江苏省,10119010103A,Nanjing Jinniu Lake Scenic Spot,nanjingjinniuhufengjingqu,南京金牛湖风景区
+286724,286725,江苏省,10119010104A,Nanjing Stone Ciry Site Park,nanjingshitouchengyizhigongyuan,南京石头城遗址公园
+286725,286726,江苏省,10119010105A,Nanshan Lake Scenic Spot,nanshanhulvyoudujiaqu,南山湖旅游度假区
+286726,286727,江苏省,10119010106A,Qiuyu Mountain Culture&Celebrities Memorial Hall,qiuyushanwenhuamingrenjinianguan,求雨山文化名人纪念馆
+286727,286799,江苏省,10119010107A,Zhenghe's Treasure Ship  Relics Park,zhenghebaochuanyizhigongyuan,郑和宝船遗址公园
+286799,285360,加利福尼亚（加州）,,Yosemite National Park,yuesaimidiguojiagongyuan,优胜美地国家公园
+285360,286789,香港特别行政区,101320101,"North District, Hong Kong",beiqu,北区（香港）
+286789,286788,四川省,10127140805A,Entrance Qingyin Hall of Emei Mountain Tourism Scenic Spot,emeishanlvyoufengjingquqingyingerukou,峨眉山旅游风景区清音阁入口
+286788,286787,四川省,10127140804A,Entrance Zero Kilometre of Emei Mountain Tourism Scenic Spot,emeishanlvyoufengjingqulinggonglirukou,峨眉山旅游风景区零公里入口
+286787,286786,四川省,101271401,Emei Mountain Tourism Scenic Spot,emeishanlvyoufengjingqu,峨眉山旅游风景区
+286786,286785,四川省,10127140104A,Leshan Giant Buddha Scenic Spot,leshandafojingqu,乐山大佛景区
+286785,286784,江西省,10124020801A,Longgong Cave,longgongdong,龙宫洞
+286784,286783,江西省,10124020601A,Fuhua Mountain Scenic Spot,fuhuashanjingqu,富华山景区
+286783,286782,江西省,10124020701A,Shizhong Mountain,shizhongshan,石钟山
+286782,286781,江西省,10124020903A,Yuhua Garden Peculiarly Hot Spring,yuhuayuantesewenquan,浴花园特色温泉
+286781,286780,江西省,10124020902A,tianmu,tianmujiangxilushanwenquandujiacun,天沐·江西庐山温泉度假村
+286780,286779,江西省,10124020901A,Longwan Hot Spring Holiday Village,longwanwenquandujiacun,龙湾温泉度假村
+286779,286778,江西省,10124020603A,West Sea Hot Spring,xihaiwenquan,西海温泉
+286778,286777,江西省,10124020602A,Lushan West Sea Scenic Spot,lushanxihaifengjingqu,庐山西海风景区
+286777,286776,江西省,10124020102A,Lushan Scenic Spot,lushanfengjingqu,庐山风景区
+286776,286775,江西省,10124020101A,Lushan Scenic Spot East Gate,lushandongmen,庐山东门
+286775,286774,福建省,10123020110A,Xiamen Garden Arboretum,xiamenyuanlinzhiwuyuan,厦门园林植物园
+286774,286773,福建省,10123020109A,Xiamen Haicang Great Bridge Toursim Spot,xiamenhaicangdaqiaolvyouqu,厦门海沧大桥旅游区
+286773,286772,福建省,10123020108A,Xiamen Beichen Mountain,xiamenbeichenshan,厦门北辰山
+286772,286771,福建省,10123020107A,Tianzhu Mountain Forest Park,tianzhushansenlingongyuan,天竺山森林公园
+286771,286770,福建省,10123020106A,Riyue Valley Hot Spring Park,riyueguwenquangongyuan,日月谷温泉公园
+286770,286769,福建省,10123020105A,Jiageng Park,jiagenggongyuan,嘉庚公园
+286769,286768,福建省,10123020104A,Huli Mountain Gun Emplacement,hulishanpaotai,胡里山炮台
+286768,286767,福建省,10123020103A,Cuifeng Spa Hot Spring Holliday Village,cuifengSPAwenquandujiacun,翠丰SPA温泉度假村
+286767,286766,福建省,10123020115A,Sunshine Rock,riguangyan,日光岩
+286766,286765,福建省,10123020114A,Huang Rongyuan Hall,huangrongyuantang,黄荣远堂
+286765,286764,福建省,10123020113A,Haitiantang Hall,haitiantanggou,海天堂构
+286764,286790,福建省,10123020112A,Kulangsu,gulangyu,鼓浪屿
+286790,286791,四川省,10127140806A,Entrance Wannian Temple of Emei Mountain Tourism Scenic Spot,emeishanlvyoufengjingquwanniansirukou,峨眉山旅游风景区万年寺入口
+286791,286792,四川省,10127140802A,Giant Buddha Temple,dafochanyuan,大佛禅院
+286792,286793,四川省,10127140201A,Jian Weiwen Temple,jianweiwenmiao,犍为文庙
+286793,286794,四川省,10127140101A,Oriental Buddha City,dongfangfodu,东方佛都
+286794,286795,四川省,10127140102A,Golden Eagle Mountain Villa,jinyingshanzhuang,金鹰山庄
+286795,286796,四川省,10127140103A,Ebony Museum,wumubowuyuan,乌木博物苑
+286796,280000,四川省,10127140801A,Emei Mountain Bamboo-leaf-green  Ecological Tea Garden,emeishanzhuyeqingshengtaimingyuan,峨眉山竹叶青生态茗园
+280000,280001,广东省,101280601,Longhua District,shenzhenshilonghuaqu,深圳市龙华区
+280001,280002,广东省,101280601,Pingshan District,pingshanqu,坪山区
+280002,280003,广东省,101280601,Guangming District,guangmingqu,光明区
+280003,,安徽省,101221509,Yeji District,yejiqu,叶集区
