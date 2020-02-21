@@ -73,6 +73,7 @@ public class WorkingLooperThread extends Thread {
         }
         if(type == MainActivity.MSG_INTERNATIONAL_CITY ) {
             IntlCity city = new IntlCity();
+            city.setMojiId(Long.valueOf(fields[0]));
             city.setCity(fields[6]);
             city.setEnglish_name(fields[5]);
             try {
@@ -87,7 +88,7 @@ public class WorkingLooperThread extends Thread {
                 DomesticCity city = new DomesticCity();
                 city.setCity(fields[6]);
                 city.setEnglish_name(fields[5]);
-                city.setMojiId(Long.valueOf(fields[1]));
+                city.setMojiId(Long.valueOf(fields[0]));
                 city.setProvince(Province.getProvinceId(fields[2]));
                 city.setIsSpot(type == MainActivity.MSG_DOMESTIC_VIEWSPOT);
                 return CityApplication.getInstance().getDomesticCityDao().insert(city);

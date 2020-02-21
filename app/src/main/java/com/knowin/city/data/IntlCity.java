@@ -16,12 +16,17 @@ public class IntlCity {
     @Id(autoincrement = true)
     private Long id;  //递增ID
 
+    private Long mojiId; //墨迹城市ID
+
     @NotNull
     private String city;
     private String english_name; //英文名字
-@Generated(hash = 1675544827)
-public IntlCity(Long id, @NotNull String city, String english_name) {
+
+@Generated(hash = 814585546)
+public IntlCity(Long id, Long mojiId, @NotNull String city,
+        String english_name) {
     this.id = id;
+    this.mojiId = mojiId;
     this.city = city;
     this.english_name = english_name;
 }
@@ -45,5 +50,11 @@ public String getEnglish_name() {
 }
 public void setEnglish_name(String english_name) {
     this.english_name = english_name;
+}
+public Long getMojiId() {
+    return this.mojiId;
+}
+public void setMojiId(Long mojiId) {
+    this.mojiId = mojiId;
 }
 }

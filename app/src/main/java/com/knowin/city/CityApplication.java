@@ -36,7 +36,7 @@ public class CityApplication extends Application {
 
         DaoMaster.OpenHelper helper =new DaoDbOpenHelper(this,"city-db",null);
         //初始化时，必须使用DevOpenHelper，它负责创建DB， 否则会报表已存在的错误。
-        //DaoMaster.OpenHelper helper = new DaoMaster.DevOpenHelper(this, "city-db", null);
+//        DaoMaster.OpenHelper helper = new DaoMaster.DevOpenHelper(this, "city-db", null);
         SQLiteDatabase db = helper.getWritableDatabase();
         DaoMaster daoMaster =new DaoMaster(db);
 

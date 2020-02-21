@@ -16,6 +16,14 @@
             android:layout_height="30dp"
             android:background="@color/cardview_dark_background"/>
         <TextView
+            android:id="@+id/cityId"
+            android:layout_width="60dp"
+            android:layout_height="30dp"/>
+        <View
+            android:layout_width="1dp"
+            android:layout_height="30dp"
+            android:background="@color/cardview_dark_background"/>
+        <TextView
             android:id="@+id/province"
             android:layout_width="80dp"
             android:layout_height="30dp"/>
